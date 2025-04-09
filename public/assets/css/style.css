@@ -7437,7 +7437,7 @@ header.style-3.two.sticky {
   color: var(--title-color);
 }
 .footer-section .footer-wrapper .contact-banner-area {
-  background-image: linear-gradient(90deg, #000000 5.18%, rgba(0, 0, 0, 0.4) 100%), url(../img/home3/ContactBanner.jpg);
+  background-image: linear-gradient(90deg, #000000 5.18%, rgba(58, 1, 1, 0.4) 100%), url(../img/home3/ContactBanner.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   padding: 64px 60px;
