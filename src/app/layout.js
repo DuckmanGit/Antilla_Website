@@ -312,7 +312,7 @@ export default function RootLayout({ children }) {
           type="image/x-icon"
           sizes="16x16"
         />
-        <meta name="description" content="Your description here" />
+        <meta name="description" content="Antilla is an asset holding and cosntruction company with La Vienna As a design partner we create exclusive experience." />
         <meta name="keywords" content="next.js, SEO, meta tags" />
         <title>Antilla x Lavienna </title>
 
