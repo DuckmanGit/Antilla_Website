@@ -147,7 +147,7 @@ const SidebarMenu = ({ isMenuOpen, toggleMenu, style }) => {
                                 <ul className="main-menu">
                                     <li className={state.activeMenu === "Home" ? "active" : ""}>
                                         <Link href="/">HOME</Link>
-                                        <span className={`dropdown-icon2 ${state.activeMenu === "home" ? "active" : ""} `} onClick={() => collapseMenu("home")}><i className={`bi ${state.activeMenu === "home" ? "bi-dash" : "bi-plus"}`}  /></span>
+                                        {/* <span className={`dropdown-icon2 ${state.activeMenu === "home" ? "active" : ""} `} onClick={() => collapseMenu("home")}><i className={`bi ${state.activeMenu === "home" ? "bi-dash" : "bi-plus"}`}  /></span>
 
                                         <ul className={`submenu-list ${state.activeMenu === "home" ? "active" : ""}`}>
                                             <li >
@@ -158,48 +158,48 @@ const SidebarMenu = ({ isMenuOpen, toggleMenu, style }) => {
                                                 </Link>
                                             </li>
                                             <li>
-                                                <Link href="/real-estate">Real Estate Home
+                                                <Link href="/">Real Estate Home
                                                     <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
                                                         <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
                                                     </svg>
                                                 </Link>
                                             </li>
                                             <li className={pathName === "/architecture" ? "active" : ""}>
-                                                <Link href="/architecture">Architecture Home
+                                                <Link href="/">Architecture Home
                                                     <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
                                                         <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
                                                     </svg>
                                                 </Link>
                                             </li>
                                             <li className={pathName === "/rnovation" ? "active" : ""}>
-                                                <Link href="/rnovation">Renovation Home
+                                                <Link href="/">Renovation Home
                                                     <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
                                                         <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
                                                     </svg>
                                                 </Link>
                                             </li>
                                             <li>
-                                                <Link href="/interior">Interior Design Home
+                                                <Link href="/">Interior Design Home
                                                     <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
                                                         <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
                                                     </svg>
                                                 </Link>
                                             </li>
-                                            <li className={pathName === "/architecture-project" ? "active" : ""}>
+                                            <li className={pathName === "/" ? "active" : ""}>
                                                 <Link href="/architecture-project">Architecture Project
                                                     <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
                                                         <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
                                                     </svg>
                                                 </Link>
                                             </li>
-                                        </ul>
+                                        </ul> */}
                                     </li>
                                     <li>
-                                        <Link href="/services">SOLUTIONS</Link>
-                                        <span className={`dropdown-icon2 ${state.activeMenu === "solution" ? "active" : ""} `} onClick={() => collapseMenu("solution")}><i className={`bi ${state.activeMenu === "solution" ? "bi-dash" : "bi-plus"}`}  /></span>
+                                        <Link href="/">SOLUTIONS</Link>
+                                        {/* <span className={`dropdown-icon2 ${state.activeMenu === "solution" ? "active" : ""} `} onClick={() => collapseMenu("solution")}><i className={`bi ${state.activeMenu === "solution" ? "bi-dash" : "bi-plus"}`}  /></span>
                                         <ul className={`submenu-list ${state.activeMenu === "solution" ? "active" : ""}`}>
                                             <li>
-                                                <Link href="/services">Services
+                                                <Link href="/">Services
                                                     <svg xmlns="http://www.w3.org/2000/svg" width={10} height={10} viewBox="0 0 10 10">
                                                         <path d="M8.33624 2.84003L1.17627 10L0 8.82373L7.15914 1.66376H0.849347V0H10V9.15065H8.33624V2.84003Z" />
                                                     </svg>
@@ -212,11 +212,11 @@ const SidebarMenu = ({ isMenuOpen, toggleMenu, style }) => {
                                                     </svg>
                                                 </Link>
                                             </li>
-                                        </ul>
+                                        </ul> */}
                                     </li>
                                     <li>
-                                        <Link href="/project">Project</Link>
-                                        <span className={`dropdown-icon2 ${state.activeMenu === "project" ? "active" : ""} `} onClick={() => collapseMenu("project")}><i className={`bi ${state.activeMenu === "project" ? "bi-dash" : "bi-plus"}`}  /></span>
+                                        <Link href="/">Project</Link>
+                                        {/* <span className={`dropdown-icon2 ${state.activeMenu === "project" ? "active" : ""} `} onClick={() => collapseMenu("project")}><i className={`bi ${state.activeMenu === "project" ? "bi-dash" : "bi-plus"}`}  /></span>
                                         <ul className={`submenu-list ${state.activeMenu === "project" ? "active" : ""}`}>
                                             <li>
                                                 <Link href="/project">Project Grid
@@ -253,12 +253,12 @@ const SidebarMenu = ({ isMenuOpen, toggleMenu, style }) => {
                                                     </svg>
                                                 </Link>
                                             </li>
-                                        </ul>
+                                        </ul> */}
                                     </li>
                                     <li>
                                         <Link href="/about">About</Link>
                                     </li>
-                                    <li>
+                                    {/* <li>
                                         <a href="#">Pages</a>
                                         <span className={`dropdown-icon2 ${state.activeMenu === "pages" ? "active" : ""} `} onClick={() => collapseMenu("pages")}><i className={`bi ${state.activeMenu === "pages" ? "bi-dash" : "bi-plus"}`}  /></span>
                                         <ul className={`submenu-list ${state.activeMenu === "pages" ? "active" : ""}`}>
@@ -379,7 +379,7 @@ const SidebarMenu = ({ isMenuOpen, toggleMenu, style }) => {
                                                 </Link>
                                             </li>
                                         </ul>
-                                    </li>
+                                    </li> */}
                                     <li>
                                         <Link href="/contact">Contact</Link>
                                     </li>
