@@ -195,7 +195,7 @@ const AboutSection = () => {
       </div>
       <div className="banner2-back-img" id="imageReveal">
         <img src="assets/img/home3/Philosophy2.jpg" alt="" />
-        <h2></h2>
+        <h2>Still Green And Live.</h2>
       </div>
       <div className="image-handle" id="imageHandle">
         <svg width={7} height={11} viewBox="0 0 7 11" xmlns="http://www.w3.org/2000/svg">
@@ -261,7 +261,7 @@ const AboutSection = () => {
             <div className="single-counter three">
               <div className="content bounce_up">
                 <div className="number">
-                  <h2 className="counter"><CountUp end={5} /></h2>
+                  <h2 className="counter"><CountUp end={9} /></h2>
                 </div>
                 <p>Year of Experienece</p>
               </div>
@@ -274,7 +274,7 @@ const AboutSection = () => {
                   <h2 className="counter"><CountUp end={2} /></h2>
                   <span>M</span>
                 </div>
-                <p>Square Meters</p>
+                <p>Square Feet</p>
               </div>
             </div>
           </div>

@@ -105,11 +105,11 @@ Version: 1.0
 :root {
   --font-kanit: "Kanit", sans-serif;
   --font-inter: "Inter", sans-serif;
-  --primary-color: #000000;
+  --primary-color: #013659;
   --primary-color-opc: 0, 0, 0;
-  --primary-color2: #F94834;
+  --primary-color2: #600a00;
   --primary-color2-opc: 249, 72, 52;
-  --title-color: #000000;
+  --title-color: #013659;
   --title-color-opc: 0, 0, 0;
   --white-color: #fff;
   --paragraph-color: #00000099;
@@ -11445,7 +11445,7 @@ header.style-3.two.sticky {
   z-index: -1;
 }
 .home3-banner2-section .banner2-back-img h2 {
-  color: #006600;
+  color: #ffffff;
 }
 .home3-banner2-section .banner2-front-img {
   position: absolute;
