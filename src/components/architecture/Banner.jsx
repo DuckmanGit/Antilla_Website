@@ -28,7 +28,7 @@ const Banner = () => {
                             </Link>
                         </div>
                         <div className="banner-logo btn_wrapper">
-                            <img src="assets/img/OnBanner.png" alt="" />
+                            <img src="assets/img/Home3/OnBanner.svg" alt="" />
                         </div>
                     </div>
                 </div>

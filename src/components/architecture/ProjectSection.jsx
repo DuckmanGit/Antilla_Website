@@ -64,11 +64,11 @@ const ProjectSection = () => {
             <div className="project-content-wrap">
               <div className="project-content">
                 <span>Client: HOABL</span>
-                <h2><Link href="/project/project-details">Architectural Innovation.</Link></h2>
+                <h2><Link href="/">Architectural Innovation.</Link></h2>
                 <ul>
-                  <li><Link href="/project">Interior Design</Link></li>
-                  <li><Link href="/project">Renovation</Link></li>
-                  <li><Link href="/project">Construction </Link></li>
+                  <li><Link href="/">Interior Design</Link></li>
+                  <li><Link href="/">Renovation</Link></li>
+                  <li><Link href="/">Construction </Link></li>
                 </ul>
               </div>
               <div className="button-area">
@@ -91,9 +91,9 @@ const ProjectSection = () => {
                 <span>Client: Piramal</span>
                 <h2><Link href="/">Adaptive Reuse Material.</Link></h2>
                 <ul>
-                  <li><Link href="/project">Renovation</Link></li>
-                  <li><Link href="/project">Architecture</Link></li>
-                  <li><Link href="/project">Industrial</Link></li>
+                  <li><Link href="/">Renovation</Link></li>
+                  <li><Link href="/">Architecture</Link></li>
+                  <li><Link href="/">Industrial</Link></li>
                 </ul>
               </div>
               <div className="button-area">
@@ -115,7 +115,7 @@ const ProjectSection = () => {
       </div>
       <div className="row pt-80 bounce_up">
         <div className="col-lg-12 d-flex justify-content-center">
-          <Link href="/project" className="primary-btn2">
+          <Link href="/" className="primary-btn2">
             <span>
               View More Project
               <svg viewBox="0 0 13 20">
