@@ -313,7 +313,7 @@ export default function RootLayout({ children }) {
           sizes="16x16"
         />
         <meta name="description" content="Antilla is an asset holding and cosntruction company with La Vienna As a design partner we create exclusive experience." />
-        <meta name="keywords" content="next.js, SEO, meta tags" />
+        <meta name="keywords" content="Construction Company in Mumbai, Mumbai Redevelopment, Mumbai Elite Constructor, Mumbai Constructor" />
         <title>Antilla x Lavienna </title>
 
         {/* GSAP Scripts */}

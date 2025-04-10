@@ -123,16 +123,16 @@ const Footer1 = () => {
                                                     </div>
                                                     <div className="menu-container">
                                                         <ul className="widget-list">
-                                                            <li><Link href="/services/service-details">Residential</Link></li>
-                                                            <li><Link href="/services/service-details">Commercial</Link></li>
-                                                            <li><Link href="/services/service-details">Industrial</Link></li>
-                                                            <li><Link href="/services/service-details">Infrastructure</Link></li>
+                                                            <li><Link href="/">Residential</Link></li>
+                                                            <li><Link href="/">Commercial</Link></li>
+                                                            <li><Link href="/">Industrial</Link></li>
+                                                            <li><Link href="/">Infrastructure</Link></li>
                                                         </ul>
                                                         <ul className="widget-list">
-                                                            <li><Link href="/services/service-details">Public Works</Link></li>
-                                                            <li><Link href="/services/service-details">Sustainable</Link></li>
-                                                            <li><Link href="/services/service-details">Pre-Construction</Link></li>
-                                                            <li><Link href="/services/service-details">Heavy Civil</Link></li>
+                                                            <li><Link href="/">Public Works</Link></li>
+                                                            <li><Link href="/">Sustainable</Link></li>
+                                                            <li><Link href="/">Pre-Construction</Link></li>
+                                                            <li><Link href="/s">Heavy Civil</Link></li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -144,10 +144,10 @@ const Footer1 = () => {
                                                     </div>
                                                     <div className="menu-container">
                                                         <ul className="widget-list">
-                                                            <li><Link href="/about">About Us</Link></li>
-                                                            <li><Link href="/team">Meet Our Team</Link></li>
-                                                            <li><Link href="/project">Our Project</Link></li>
-                                                            <li><Link href="/blog-grid">Blog &amp; Article</Link></li>
+                                                            <li><Link href="/">About Us</Link></li>
+                                                            <li><Link href="/">Meet Our Team</Link></li>
+                                                            <li><Link href="/">Our Project</Link></li>
+                                                            <li><Link href="/">Blog &amp; Article</Link></li>
                                                         </ul>
                                                     </div>
                                                 </div>

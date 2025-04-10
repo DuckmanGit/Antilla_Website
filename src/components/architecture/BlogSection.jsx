@@ -46,7 +46,7 @@ const BlogSection = () => {
             <h2>Architecture Insights</h2>
             <p>Integrating natural elements into architectural design has long been a fundamental pursuit in creating comfortable, sustainable environments that enhance both individual well-being and the relationship between buildings and their surrounding context. In areas with vast landscapes, incorporating natural elements is essential for seamlessly connecting architecture with its site. </p>
           </div>
-          <Link href="/blog" className="primary-btn2">
+          <Link href="/" className="primary-btn2">
             <span>
               View All Blog
               <svg viewBox="0 0 13 20">
@@ -60,21 +60,21 @@ const BlogSection = () => {
         <div className="row g-4 justify-content-end">
           <div className="col-lg-9 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
             <div className="blog-card style-3">
-              <Link href="/blog/blog-details" className="blog-img">
+              <Link href="/" className="blog-img">
                 <img src="assets/img/home3/blog1.jpg" alt="" />
               </Link>
               <div className="blog-content-wrap">
                 <div className="blog-content">
                   <div className="blog-meta">
                     <ul>
-                      <li><Link href="/blog" className="blog-date">1st march 2025</Link></li>
-                      <li><Link href="/blog">Industry</Link></li>
+                      <li><Link href="/" className="blog-date">1st march 2025</Link></li>
+                      <li><Link href="/">Industry</Link></li>
                     </ul>
                   </div>
-                  <h4><Link href="/blog/blog-details">Blueprint &amp; Beys Explore Modern Architecture Trends.</Link></h4>
+                  <h4><Link href="/">Blueprint &amp; Beys Explore Modern Architecture Trends.</Link></h4>
                 </div>
                 <div className="details-btn">
-                  <Link href="/blog/blog-details" className="primary-btn">
+                  <Link href="/" className="primary-btn">
                     View Details
                     <svg viewBox="0 0 13 20">
                       <polyline points="0.5 19.5 3 19.5 12.5 10 3 0.5" />
@@ -86,21 +86,21 @@ const BlogSection = () => {
           </div>
           <div className="col-lg-9 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
             <div className="blog-card style-3">
-              <Link href="/blog/blog-details" className="blog-img">
+              <Link href="/" className="blog-img">
                 <img src="assets/img/home3/blog2.jpg" alt="" />
               </Link>
               <div className="blog-content-wrap">
                 <div className="blog-content">
                   <div className="blog-meta">
                     <ul>
-                      <li><Link href="/blog" className="blog-date">1st April 2025</Link></li>
-                      <li><Link href="/blog">Construction</Link></li>
+                      <li><Link href="/" className="blog-date">1st April 2025</Link></li>
+                      <li><Link href="/">Construction</Link></li>
                     </ul>
                   </div>
-                  <h4><Link href="/blog/blog-details">Sustainable Spaces Innovations in Green Architecture.</Link></h4>
+                  <h4><Link href="/">Sustainable Spaces Innovations in Green Architecture.</Link></h4>
                 </div>
                 <div className="details-btn">
-                  <Link href="/blog/blog-details" className="primary-btn">
+                  <Link href="/" className="primary-btn">
                     View Details
                     <svg viewBox="0 0 13 20">
                       <polyline points="0.5 19.5 3 19.5 12.5 10 3 0.5" />
@@ -112,21 +112,21 @@ const BlogSection = () => {
           </div>
           <div className="col-lg-9 scroll-sec-title-end wow animate fadeInDown" data-wow-delay="600ms" data-wow-duration="1500ms">
             <div className="blog-card style-3">
-              <Link href="/blog/blog-details" className="blog-img">
+              <Link href="/" className="blog-img">
                 <img src="assets/img/home3/blog3.jpg" alt="" />
               </Link>
               <div className="blog-content-wrap">
                 <div className="blog-content">
                   <div className="blog-meta">
                     <ul>
-                      <li><Link href="/blog" className="blog-date">5th April 2025</Link></li>
-                      <li><Link href="/blog">Architecture</Link></li>
+                      <li><Link href="/" className="blog-date">5th April 2025</Link></li>
+                      <li><Link href="/">Architecture</Link></li>
                     </ul>
                   </div>
-                  <h4><Link href="/blog/blog-details">Architectural Perspective Essays on Design Philosophy.</Link></h4>
+                  <h4><Link href="/">Architectural Perspective Essays on Design Philosophy.</Link></h4>
                 </div>
                 <div className="details-btn">
-                  <Link href="/blog/blog-details" className="primary-btn">
+                  <Link href="/" className="primary-btn">
                     View Details
                     <svg viewBox="0 0 13 20">
                       <polyline points="0.5 19.5 3 19.5 12.5 10 3 0.5" />

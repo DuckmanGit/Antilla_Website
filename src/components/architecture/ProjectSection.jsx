@@ -24,15 +24,15 @@ const ProjectSection = () => {
             <div className="project-content-wrap">
               <div className="project-content">
                 <span>Client: Lodha</span>
-                <h2><Link href="/project/project-details">Beyond the Surface Perspective</Link></h2>
+                <h2><Link href="/">Beyond the Surface Perspective</Link></h2>
                 <ul>
-                  <li><Link href="/project">Architecture</Link></li>
-                  <li><Link href="/project">Renovation</Link></li>
-                  <li><Link href="/project">Construction </Link></li>
+                  <li><Link href="/">Architecture</Link></li>
+                  <li><Link href="/">Renovation</Link></li>
+                  <li><Link href="/">Construction </Link></li>
                 </ul>
               </div>
               <div className="button-area">
-                <Link href="/project/project-details" className="primary-btn">
+                <Link href="/" className="primary-btn">
                   View Details
                   <svg viewBox="0 0 13 20">
                     <polyline points="0.5 19.5 3 19.5 12.5 10 3 0.5" />
@@ -89,7 +89,7 @@ const ProjectSection = () => {
             <div className="project-content-wrap">
               <div className="project-content">
                 <span>Client: Piramal</span>
-                <h2><Link href="/project/project-details">Adaptive Reuse Material.</Link></h2>
+                <h2><Link href="/">Adaptive Reuse Material.</Link></h2>
                 <ul>
                   <li><Link href="/project">Renovation</Link></li>
                   <li><Link href="/project">Architecture</Link></li>
@@ -97,7 +97,7 @@ const ProjectSection = () => {
                 </ul>
               </div>
               <div className="button-area">
-                <Link href="/project/project-details" className="primary-btn">
+                <Link href="/" className="primary-btn">
                   View Details
                   <svg viewBox="0 0 13 20">
                     <polyline points="0.5 19.5 3 19.5 12.5 10 3 0.5" />

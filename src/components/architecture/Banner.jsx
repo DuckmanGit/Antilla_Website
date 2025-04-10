@@ -18,7 +18,7 @@ const Banner = () => {
                     <div className="banner-content-and-logo">
                         <div className="banner-content wow animate fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
                             <h1 className="gradient-text">Building The Perfect Home La Vienna..</h1>
-                            <Link href="/project" className="primary-btn2">
+                            <Link href="/" className="primary-btn2">
                                 <span>
                                     Start A Project
                                     <svg viewBox="0 0 13 20">

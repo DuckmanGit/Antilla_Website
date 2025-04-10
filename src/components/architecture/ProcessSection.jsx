@@ -204,7 +204,7 @@ const ProcessSection = () => {
                                     <p>Each of our projects is handled with utmost care and dedication. Quality control, timely delivery, and resident satisfaction are the metrics by which we measure success. Whether it’s our featured project or those in the pipeline, Antilla Estate is committed to redeveloping Mumbai, one society at a time, with a touch of class and a foundation of trust.</p>
                                 </div>
                                 <div className="btn-and-video-area">
-                                    <Link href="/about" className="primary-btn2">
+                                    <Link href="/" className="primary-btn2">
                                         <span>
                                             Learn More
                                             <svg viewBox="0 0 13 20">
