@@ -61,7 +61,7 @@ const ServiceDetailsPage = () => {
     <div className="row">
       <div className="col-lg-12">
         <div className="service-details-thumb mb-60">
-          <img src="/assets/img/inner-pages/service-details-thumb-img.jpg" alt="" />
+          <img src="/assets/img/Home3/ServiceDetails.jpg" alt="" />
         </div>
         <div className="title-area mb-60">
           <h2>Residential <span>Construction</span></h2>
@@ -120,7 +120,7 @@ const ServiceDetailsPage = () => {
           </ul>
           <span className="line-break" />
           <span className="line-break" />
-          <h3>Welcome to Vernex.</h3>
+          <h3>Welcome to Antilla.</h3>
           <span className="line-break" />
           <p>Where innovation meets passion in a journey that started with a simple idea and a shared dream. Founded in recent year we embarked on a mission to bring the new innovation and introduce the technology. From humble beginnings to our current aspirations, every step has been fueled by a relentless commitment.</p>
           <span className="line-break" />
@@ -131,10 +131,10 @@ const ServiceDetailsPage = () => {
           <div className="service-details-img-grp">
             <div className="row g-lg-3 g-4">
               <div className="col-md-6">
-                <img src="/assets/img/inner-pages/service-details-img1.jpg" alt="" />
+                <img src="/assets/img/Home3/ServiceDetail-Small.jpg" alt="" />
               </div>
               <div className="col-md-6">
-                <img src="/assets/img/inner-pages/service-details-img2.jpg" alt="" />
+                <img src="/assets/img/Home3/ServiceDetail-Small2.jpg" alt="" />
               </div>
             </div>
           </div>
@@ -159,12 +159,12 @@ const ServiceDetailsPage = () => {
               <div className="accordion-item">
                 <h2 className="accordion-header" id="headingTwo">
                   <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                    02. Is Vernex suitable for my business?
+                    02. Is Antilla suitable for my business?
                   </button>
                 </h2>
                 <div id="collapseTwo" className="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                   <div className="accordion-body">
-                    Discover if Vernex is the right fit for your business by exploring its tailored solutions for various industries and unique needs.
+                    Discover if Antilla is the right fit for your business by exploring its tailored solutions for various industries and unique needs.
                   </div>
                 </div>
               </div>
@@ -230,7 +230,7 @@ const ServiceDetailsPage = () => {
         <div className="section-title three text-center">
           <span>How We Work</span>
           <h2>Our Proven Methodology</h2>
-          <p>Sed nisl eros, condimentum nec risus sit amet, finibus conguese.Fusen fringilla est libero sed tempus urna feugiat eu. Curabitur eu feugiat ligu Suspendisse.</p>
+          <p>We develope using state of the art technologies. Designed by worlds best Architects.</p>
         </div>
       </div>
     </div>
@@ -362,7 +362,7 @@ const ServiceDetailsPage = () => {
         <div className="banner-content">
           <div className="section-title white wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
             <span>Building Your Vision</span>
-            <h2>Let's Build Dream Something Amazing.</h2>
+            <h2>Let's Build Something Amazing.</h2>
           </div>
           <div className="button-area wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
             <Link href="/contact" className="primary-btn2 white-bg">
