@@ -177,9 +177,9 @@ const Footer = () => {
             </div>
             <div className="footer-bottom-right">
               <ul>
-                <li><a href="#">Support Policy</a></li>
-                <li><a href="#">Terms &amp; Conditions</a></li>
-                <li><a href="#">Privacy Policy</a></li>
+                <li><a href="/support">Support Policy</a></li>
+                <li><a href="/terms">Terms &amp; Conditions</a></li>
+                <li><a href="/privacy">Privacy Policy</a></li>
               </ul>
             </div>
           </div>

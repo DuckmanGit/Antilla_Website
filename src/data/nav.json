@@ -14,7 +14,7 @@
             {
                 "id": "2",
                 "label": "Real Estate",
-                "link": "/real-estate",
+                "link": "/",
                 "icon": false
             },
             {
@@ -23,22 +23,17 @@
                 "link": "/architecture",
                 "icon": false
             },
-            {
-                "id": "4",
-                "label": "Rnovation",
-                "link": "/rnovation",
-                "icon": false
-            },
+           
             {
                 "id": "5",
                 "label": "Interior",
-                "link": "/interior",
+                "link": "https://laviennahomes.com",
                 "icon": false
             },
             {
                 "id": "6",
                 "label": "Architecture Project",
-                "link": "/architecture-project",
+                "link": "/",
                 "icon": false
             }
         ]
@@ -72,45 +67,14 @@
     {
         "id": "4",
         "label": "PROJECT",
-        "link": "/project",
-        "icon": true,
-        "subMenu": [
-            {
-                "id": "1",
-                "icon": false,
-                "label": "Project Grid",
-                "link": "/project"
-            },
-            {
-                "id": "2",
-                "icon": false,
-                "label": "Project Masonary",
-                "link": "/project/project-masonary"
-            },
-            {
-                "id": "3",
-                "icon": false,
-                "label": "Project Info flow",
-                "link": "/project/project-info-flow"
-            },
-            {
-                "id": "4",
-                "icon": false,
-                "label": "Project Single",
-                "link": "/project/project-single"
-            },
-            {
-                "id": "5",
-                "icon": false,
-                "label": "Project Details",
-                "link": "/project/project-details"
-            }
-        ]
+        "link": "/services",
+        "icon": true
+        
     },
     {
         "id": "5",
-        "label": "PAGES",
-        "link": "#",
+        "label": "MORE",
+        "link": "/about",
         "icon": true,
         "subMenu": [
             {

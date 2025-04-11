@@ -111,7 +111,7 @@ const Header1 = ({ style = "", fluid }) => {
                 <div className="sidebar-content-wrap">
                     <div className="title-area">
                         <span>Get In Touch With Us</span>
-                        <h2>Connect With Vernex</h2>
+                        <h2>Connect With Antilla</h2>
                         <p>Ready to take the first step towards unlocking opportunity realizing goals, and embracing innovation?</p>
                     </div>
                     <ul className="contact-area">
@@ -126,7 +126,7 @@ const Header1 = ({ style = "", fluid }) => {
                                 </div>
                                 <div className="content">
                                     <span>CALL ANY TIME</span>
-                                    <h6><a href="tel:29658718617">2-965-871-8617</a></h6>
+                                    <h6><a href="8292552841">+91 8292552841</a></h6>
                                 </div>
                             </div>
                             <svg className="arrow" width={8} height={29} viewBox="0 0 8 29" xmlns="http://www.w3.org/2000/svg">
@@ -143,7 +143,7 @@ const Header1 = ({ style = "", fluid }) => {
                                 </div>
                                 <div className="content">
                                     <span>ADDRESS</span>
-                                    <h6><a href="#">Dhaka, Bangladesh</a></h6>
+                                    <h6><a href="#">Mumbai, Maharashtra</a></h6>
                                 </div>
                             </div>
                             <svg className="arrow" width={8} height={29} viewBox="0 0 8 29" xmlns="http://www.w3.org/2000/svg">
@@ -159,24 +159,24 @@ const Header1 = ({ style = "", fluid }) => {
                                 </div>
                                 <div className="content">
                                     <span>SAY HELLO</span>
-                                    <h6><a href="mailto:info@example.com">info@example.com</a></h6>
+                                    <h6><a href="mailto:info@example.com">connect@antilla.co</a></h6>
                                 </div>
                             </div>
                         </li>
                     </ul>
                     <ul className="address-area">
                         <li className="single-address">
-                            <span>NEW YORK</span>
-                            <p>8204 Glen Ridge DriveEndicott, NY 13760</p>
+                            <span>Mumbai</span>
+                            <p>1515 D, One Lodha Place, Senapati Bapat Marg, Lower Parel, Mumbai, Maharashtra, 400013</p>
                         </li>
                         <li className="single-address">
-                            <span>WASHINGTON DC</span>
-                            <p>8204 Glen Ridge DriveEndicott, NY 13760</p>
+                            <span>Mumbai</span>
+                            <p>1217, One Lodha Place, Lower Parel, Mumbai</p>
                         </li>
                     </ul>
                 </div>
                 <div className="sidebar-bottom-area">
-                    <p>Copyright 2025 <Link href="/">Vernex</Link> | Design By <a href="https://www.egenslab.com/">Egens Lab</a></p>
+                    <p>Copyright 2025 <Link href="/">Antilla Estates Private Limited</Link> | Design By <a href="https://www.duckmantechnologies.com">Duckman Technologies</a></p>
                 </div>
             </div>
             <header className={`header-area style-1 ${style} ${state.scrollY > 20 ? "sticky" : ""}`}>

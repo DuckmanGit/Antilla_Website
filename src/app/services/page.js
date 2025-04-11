@@ -52,14 +52,13 @@ const ServicePage = () => {
                   </div>
                 </li>
                 <li className="single-services mb-20 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
-                  <h3><Link href="/services/service-details">Commercial <span>Construction</span></Link></h3>
+                  <h3><Link href="/services/service-details">Mivan <span>Construction</span></Link></h3>
                   <div className="content">
-                    <p>Health and care consulting refers to the practice of providing expert
-                      advice and guidance.</p>
+                    <p>Mivan construction utilizes aluminum formwork systems known for rapid, efficient, and precise concrete structures. Ideal for residential towers and mass housing, Mivan construction ensures excellent durability, earthquake resistance, and consistent quality, significantly reducing construction timelines.</p>
                     <ul className="tag-list">
-                      <li><Link href="/services">Office Buildings</Link></li>
-                      <li><Link href="/services">Retail Spaces</Link></li>
-                      <li><Link href="/services">Restaurants</Link></li>
+                      <li><Link href="/services">Villas</Link></li>
+                      <li><Link href="/services">Towers</Link></li>
+                      <li><Link href="/services">Sky Scrapers</Link></li>
                       <li><Link href="/services">Hotels</Link></li>
                       <li><Link href="/services">Hospitality</Link></li>
                       <li><Link href="/services">Medical Facilities</Link></li>
@@ -74,8 +73,7 @@ const ServicePage = () => {
                 <li className="single-services mb-20 wow animate fadeInDown" data-wow-delay="600ms" data-wow-duration="1500ms">
                   <h3><Link href="/services/service-details">Industrial <span>Construction</span></Link></h3>
                   <div className="content">
-                    <p>Health and care consulting refers to the practice of providing expert
-                      advice and guidance.</p>
+                    <p>Specializing in industrial construction, we deliver robust, functional facilities tailored to manufacturing, warehousing, and logistics operations. Our expertise encompasses factories, storage complexes, and specialized production plants designed to optimize operational efficiency, safety, and compliance with industry standards.</p>
                     <ul className="tag-list">
                       <li><Link href="/services">Factories</Link></li>
                       <li><Link href="/services">Warehouses</Link></li>
@@ -94,8 +92,7 @@ const ServicePage = () => {
                 <li className="single-services mb-20 wow animate fadeInDown" data-wow-delay="800ms" data-wow-duration="1500ms">
                   <h3><Link href="/services/service-details">Design-Build <span>Construction</span></Link></h3>
                   <div className="content">
-                    <p>Health and care consulting refers to the practice of providing expert
-                      advice and guidance.</p>
+                    <p>Our integrated design-and-build approach streamlines your construction journey, bringing architecture, engineering, and construction under one roof. From initial concept to final execution, our expert team ensures enhanced coordination, faster project delivery, cost efficiency, and superior quality, transforming your vision seamlessly into reality.</p>
                     <ul className="tag-list">
                       <li><Link href="/services">Factories</Link></li>
                       <li><Link href="/services">Warehouses</Link></li>
@@ -114,8 +111,7 @@ const ServicePage = () => {
                 <li className="single-services wow animate fadeInDown" data-wow-delay="800ms" data-wow-duration="1500ms">
                   <h3><Link href="/services/service-details">Steel Structure <span>Construction</span></Link></h3>
                   <div className="content">
-                    <p>Health and care consulting refers to the practice of providing expert
-                      advice and guidance.</p>
+                    <p>Our steel structure solutions offer unmatched strength, versatility, and cost-effectiveness for various applications, including industrial sheds, warehouses, exhibition halls, and commercial buildings. Engineered for rapid assembly and high durability, our steel structures guarantee superior performance, flexibility, and longevity.</p>
                     <ul className="tag-list">
                       <li><Link href="/services">Factories</Link></li>
                       <li><Link href="/services">Warehouses</Link></li>

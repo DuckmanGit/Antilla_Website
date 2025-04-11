@@ -111,7 +111,7 @@ const Header4 = () => {
                                 </g>
                             </svg>
                         </span>
-                        <h2>Connect with Nexaq</h2>
+                        <h2>Connect with Antilla</h2>
                         <p>Ready to take the first step towards unlocking opportuniti realizing goals, and embracing innovation?</p>
                     </div>
                     <ul className="contact-area">

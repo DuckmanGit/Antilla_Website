@@ -195,7 +195,7 @@ const SidebarMenu = ({ isMenuOpen, toggleMenu, style }) => {
                                         </ul> */}
                                     </li>
                                     <li>
-                                        <Link href="/">SOLUTIONS</Link>
+                                        <Link href="/services">SOLUTIONS</Link>
                                         {/* <span className={`dropdown-icon2 ${state.activeMenu === "solution" ? "active" : ""} `} onClick={() => collapseMenu("solution")}><i className={`bi ${state.activeMenu === "solution" ? "bi-dash" : "bi-plus"}`}  /></span>
                                         <ul className={`submenu-list ${state.activeMenu === "solution" ? "active" : ""}`}>
                                             <li>
@@ -215,7 +215,7 @@ const SidebarMenu = ({ isMenuOpen, toggleMenu, style }) => {
                                         </ul> */}
                                     </li>
                                     <li>
-                                        <Link href="/">Project</Link>
+                                        <Link href="/services">Project</Link>
                                         {/* <span className={`dropdown-icon2 ${state.activeMenu === "project" ? "active" : ""} `} onClick={() => collapseMenu("project")}><i className={`bi ${state.activeMenu === "project" ? "bi-dash" : "bi-plus"}`}  /></span>
                                         <ul className={`submenu-list ${state.activeMenu === "project" ? "active" : ""}`}>
                                             <li>

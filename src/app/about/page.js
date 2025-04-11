@@ -70,7 +70,7 @@ const AboutPage = () => {
               <div className="col-lg-8 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                 <div className="about-title-area">
                   <div className="section-title">
-                    <span>Building Trust Since 2005</span>
+                    <span>Building Trust Since 2016</span>
                     <h2>Experts in Construction Your Excellence.</h2>
                   </div>
                   <div className="video-and-content">
@@ -87,7 +87,7 @@ const AboutPage = () => {
                       </div>
                     </a>
                     <div className="content">
-                      <p>Sed nisl eros, condimentum nec risus sit amet, finibus conguese.Fusen fringilla est libero, sed tempus urna feugiat eu. Curabitur eu feugiat ligu Suspendisse nectoraba porttitor velit go this week and more about.</p>
+                      <p>At Antilla Estates, we don't just build structures; we create legacies. With unparalleled expertise in construction and redevelopment, our dedicated professionals transform visionary ideas into reality, setting new standards of excellence in every project we undertake. Partner with Antilla Estates to experience construction excellence tailored uniquely to your aspirations.</p>
                     </div>
                   </div>
                 </div>
@@ -116,22 +116,22 @@ const AboutPage = () => {
                 <ul>
                   <li>
                     <h5>Who we are</h5>
-                    <p>Sed nisl eros, condimentum nec risussit amet finibus cons sem fusce. Advantage of thes limited-time offers &amp; start.</p>
+                    <p>Antilla Estates Private Limited is a premier asset holding and construction company with a robust portfolio valued at over ₹1000 crores. Headquartered in Mumbai, we specialize in visionary real estate development, strategic asset management, and innovative redevelopment projects.&amp; start.</p>
                   </li>
                   <li>
                     <h5>Our Mission</h5>
-                    <p>Sed nisl eros, condimentum nec risussit amet finibus cons sem fusce. Advantage of thes limited-time offers &amp; start.</p>
+                    <p>At Antilla Estates, we don't merely develop spaces—we redefine lifestyles, enrich communities, and build lasting legacies. &amp; start.</p>
                   </li>
                   <li>
                     <h5>Core value</h5>
-                    <p>Sed nisl eros, condimentum nec risussit amet finibus cons sem fusce. Advantage of thes limited-time offers &amp; start.</p>
+                    <p>ounded on principles of integrity, sustainability, and excellence, Antilla Estates is driven by a seasoned team of industry professionals committed to transforming Mumbai's urban landscape. We collaborate with renowned partners like Hafeez Contractor for architectural mastery and L&T for construction excellence, ensuring every project aligns perfectly with our core values. &amp; start.</p>
                   </li>
                 </ul>
               </div>
             </div>
             <div className="col-lg-7 d-lg-block d-none">
               <div className="about-img magnetic-item">
-                <img src="assets/img/home1/about-img.jpg" alt="" />
+                <img src="assets/img/home3/about1.jpg" alt="" />
               </div>
             </div>
           </div>
@@ -158,18 +158,19 @@ const AboutPage = () => {
                     <p>Talk With Us</p>
                   </Link>
                 </div>
-                <p>Sed Nissl eros, condominium nec risussit abet finibus cons sem fused. Advantage of these limited-time offers &amp; start. Here are various categories that can be featured on a construction website to cover different aspects and specialties within the industry. This title is versatile and can be adapted to fit the specific tone and branding of your construction website, ensuring it conveys the comprehensive nature of your services and commitment to quality.</p>
+                <p>Discover the Antilla difference in just 30 minutes.
+                Schedule a personalized consultation with our expert team, and explore firsthand how we bring your vision to life through thoughtful design, unmatched quality, and precision execution. Whether you're planning a redevelopment or envisioning your next landmark project, investing 30 minutes with Antilla Estates can redefine your perspective on excellence in construction.</p>
               </div>
             </div>
             <div className="col-lg-6 d-lg-block d-none">
               <div className="support-img magnetic-item">
-                <img src="assets/img/home1/home1-support-img.jpg" alt="" />
+                <img src="assets/img/home3/about2.jpg" alt="" />
               </div>
             </div>
           </div>
         </div>
       </div>
-      <div className="home1-banner2-section" style={{ backgroundImage: 'linear-gradient(180deg, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.7) 100%), url(assets/img/home1/home1-banner2-bg.jpg)' }}>
+      <div className="home1-banner2-section" style={{ backgroundImage: 'linear-gradient(180deg, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.7) 100%), url(assets/img/home3/about3.jpg)' }}>
         <div className="container">
           <div className="row">
             <div className="col-lg-12 d-flex justify-content-center">
@@ -202,7 +203,7 @@ const AboutPage = () => {
             <div className="logo-title">
               <h6>A partner, Not A Vendor:</h6>
             </div>
-            <div className="marquee">
+            {/* <div className="marquee">
               <div className="marquee__group">
                 <a href="#"><img src="assets/img/home1/partner-01.png" alt="" /></a>
                 <a href="#"><img src="assets/img/home1/partner-02.png" alt="" /></a>
@@ -219,11 +220,11 @@ const AboutPage = () => {
                 <a href="#"><img src="assets/img/home1/partner-05.png" alt="" /></a>
                 <a href="#"><img src="assets/img/home1/partner-06.png" alt="" /></a>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
-      <div className="home1-team-section mb-130">
+      {/* <div className="home1-team-section mb-130">
         <div className="container">
           <div className="row gy-5 align-items-center justify-content-between mb-70">
             <div className="col-lg-4 wow animate fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
@@ -338,8 +339,8 @@ const AboutPage = () => {
             </div>
           </div>
         </div>
-      </div>
-      <Home1Testimonial />
+      </div> */}
+      {/* <Home1Testimonial /> */}
 
       <div className="home1-faq-section mb-130">
         <div className="container">
@@ -426,7 +427,7 @@ const AboutPage = () => {
               <div className="title-area">
                 <div className="section-title">
                   <span>Ask the Builder</span>
-                  <h2>Curious About Vernex?</h2>
+                  <h2>Curious About Antilla or Lavienna?</h2>
                   <p>We understand your needs and delivery digitaloi marketing through unique selling oneto homeles proposition Our team of expert.</p>
                 </div>
                 <div className="button-area">
