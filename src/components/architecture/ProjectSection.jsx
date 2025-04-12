@@ -12,7 +12,7 @@ const ProjectSection = () => {
           <div className="section-title three text-center">
             <span>Vision Of Projects</span>
             <h2>Behind the Scenes</h2>
-            <p>Once the project is greenlit, Hafeez Contractor’s team crafts iconic yet community-focused designs, marrying luxury with livability. These blueprints are then brought to life by L&T’s construction excellence — a brand synonymous with safety, speed, and quality across India.</p>
+            <p>Once the project is greenlit, best architects from around the globe’s team crafts iconic yet community-focused designs, marrying luxury with livability. These blueprints are then brought to life by best construction companies with latest tech’s construction excellence — a brand synonymous with safety, speed, and quality across India.</p>
           </div>
         </div>
       </div>

@@ -124,7 +124,7 @@ const AboutPage = () => {
                   </li>
                   <li>
                     <h5>Core value</h5>
-                    <p>ounded on principles of integrity, sustainability, and excellence, Antilla Estates is driven by a seasoned team of industry professionals committed to transforming Mumbai's urban landscape. We collaborate with renowned partners like Hafeez Contractor for architectural mastery and L&T for construction excellence, ensuring every project aligns perfectly with our core values. &amp; start.</p>
+                    <p>ounded on principles of integrity, sustainability, and excellence, Antilla Estates is driven by a seasoned team of industry professionals committed to transforming Mumbai's urban landscape. We collaborate with renowned partners like best architects from around the globe for architectural mastery and best construction companies with latest tech for construction excellence, ensuring every project aligns perfectly with our core values. &amp; start.</p>
                   </li>
                 </ul>
               </div>

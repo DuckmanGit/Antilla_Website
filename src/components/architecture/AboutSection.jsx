@@ -164,7 +164,7 @@ const AboutSection = () => {
                 <div className="col-md-4 col-sm-6">
                   <div className="single-content">
                     <h5>WHO WE ARE</h5>
-                    <p>We specialize in society redevelopment, transforming aging buildings into modern, luxurious, and future-ready homes. Our projects are crafted by India’s most respected architect, Hafeez Contractor, and built with unmatched quality by Larsen & Toubro (L&T). &amp; start.</p>
+                    <p>We specialize in society redevelopment, transforming aging buildings into modern, luxurious, and future-ready homes. Our projects are crafted by India’s most respected architect, best architects from around the globe, and built with unmatched quality by Larsen & Toubro (best construction companies with latest tech). &amp; start.</p>
                   </div>
                 </div>
                 <div className="col-md-4 col-sm-6">
@@ -176,7 +176,7 @@ const AboutSection = () => {
                 <div className="col-md-4 col-sm-6">
                   <div className="single-content">
                     <h5>CORE VALUE</h5>
-                    <p>We aim to empower residential societies through transparent partnerships, respectful redevelopment, and a deep commitment to community well-being. By working with legendary names like Hafeez Contractor and L&T, we bring excellence to every square foot, and create living spaces that uplift the lives of every resident. &amp; start.</p>
+                    <p>We aim to empower residential societies through transparent partnerships, respectful redevelopment, and a deep commitment to community well-being. By working with legendary names like best architects from around the globe and best construction companies with latest tech, we bring excellence to every square foot, and create living spaces that uplift the lives of every resident. &amp; start.</p>
                   </div>
                 </div>
               </div>

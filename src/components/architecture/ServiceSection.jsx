@@ -23,7 +23,7 @@ const ServiceSection = () => {
                         <div className="section-title three text-center">
                             <span>Best Solutions</span>
                             <h2>Architectural Solutions</h2>
-                            <p>Designed by Hafeez Contractor, the tower features a striking contemporary façade and intelligently designed homes with abundant natural light. Each apartment offers modern elegance with premium fittings, ample parking, and panoramic views of the city.</p>
+                            <p>Designed by best architects from around the globe, the tower features a striking contemporary façade and intelligently designed homes with abundant natural light. Each apartment offers modern elegance with premium fittings, ample parking, and panoramic views of the city.</p>
                         </div>
                     </div>
                 </div>
