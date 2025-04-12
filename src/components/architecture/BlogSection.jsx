@@ -61,7 +61,7 @@ const BlogSection = () => {
           <div className="col-lg-9 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
             <div className="blog-card style-3">
               <Link href="/" className="blog-img">
-                <img src="assets/img/home3/blog1.jpg" alt="" />
+                <img src="assets/img/home3/blog-1.jpg" alt="" />
               </Link>
               <div className="blog-content-wrap">
                 <div className="blog-content">
@@ -87,7 +87,7 @@ const BlogSection = () => {
           <div className="col-lg-9 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
             <div className="blog-card style-3">
               <Link href="/" className="blog-img">
-                <img src="assets/img/home3/blog2.jpg" alt="" />
+                <img src="assets/img/home3/blog-2.jpg" alt="" />
               </Link>
               <div className="blog-content-wrap">
                 <div className="blog-content">
@@ -113,7 +113,7 @@ const BlogSection = () => {
           <div className="col-lg-9 scroll-sec-title-end wow animate fadeInDown" data-wow-delay="600ms" data-wow-duration="1500ms">
             <div className="blog-card style-3">
               <Link href="/" className="blog-img">
-                <img src="assets/img/home3/blog3.jpg" alt="" />
+                <img src="assets/img/home3/blog-3.jpg" alt="" />
               </Link>
               <div className="blog-content-wrap">
                 <div className="blog-content">
