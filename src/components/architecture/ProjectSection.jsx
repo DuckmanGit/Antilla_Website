@@ -23,7 +23,7 @@ const ProjectSection = () => {
           <div className="col-md-6 wow animate fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
             <div className="project-content-wrap">
               <div className="project-content">
-                <span>Client: Lodha</span>
+                <span>View: Mumbai</span>
                 <h2><Link href="/">Beyond the Surface Perspective</Link></h2>
                 <ul>
                   <li><Link href="/">Architecture</Link></li>
@@ -63,7 +63,7 @@ const ProjectSection = () => {
           <div className="col-md-6 order-md-2 order-1 wow animate fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
             <div className="project-content-wrap">
               <div className="project-content">
-                <span>Client: HOABL</span>
+                <span>View: Office</span>
                 <h2><Link href="/">Architectural Innovation.</Link></h2>
                 <ul>
                   <li><Link href="/">Interior Design</Link></li>
@@ -88,7 +88,7 @@ const ProjectSection = () => {
           <div className="col-md-6 wow animate fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
             <div className="project-content-wrap">
               <div className="project-content">
-                <span>Client: Piramal</span>
+                <span>View: Site</span>
                 <h2><Link href="/">Adaptive Reuse Material.</Link></h2>
                 <ul>
                   <li><Link href="/">Renovation</Link></li>
