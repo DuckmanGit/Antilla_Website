@@ -40,7 +40,7 @@ const FeatureSection = () => {
                     </div>
                   </div>
                   <div className="feature-list">
-                    <h6>VERNEX PLATFORM <span>Feature:</span></h6>
+                    <h6>Antilla Estates PLATFORM <span>Feature:</span></h6>
                     <ul>
                       <li><strong>Create engaging content:</strong> Eye-catching visual, informative
                         caption, &amp; interactive elements can all help you capture attention and stop the

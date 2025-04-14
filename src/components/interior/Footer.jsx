@@ -270,7 +270,7 @@ const Footer = () => {
                     <div className="container">
                         <div className="footer-bottom">
                             <div className="copyright-area">
-                                <p>Copyright 2025 <Link href="/">Vernex</Link> | Design By <a href="https://www.egenslab.com/">Egens Lab</a></p>
+                                <p>Copyright 2025 <Link href="/">Antilla Estates</Link> | Design By <a href="https://www.Duckman Studio lab.com/">Duckman Studio  Lab</a></p>
                             </div>
                             <div className="footer-bottom-right">
                                 <ul>

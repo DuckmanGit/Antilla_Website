@@ -34,12 +34,12 @@ const page = () => {
                                     <div className="accordion-item">
                                         <h2 className="accordion-header" id="headingTwo">
                                             <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                                02. Is Vernex suitable for my business?
+                                                02. Is Antilla Estates suitable for my business?
                                             </button>
                                         </h2>
                                         <div id="collapseTwo" className="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                             <div className="accordion-body">
-                                                Discover if Vernex is the right fit for your business by exploring its tailored solutions for various industries and unique needs.
+                                                Discover if Antilla Estates is the right fit for your business by exploring its tailored solutions for various industries and unique needs.
                                             </div>
                                         </div>
                                     </div>
@@ -99,7 +99,7 @@ const page = () => {
                                         </h2>
                                         <div id="collapseSeven" className="accordion-collapse collapse" aria-labelledby="headingSeven" data-bs-parent="#accordionExample">
                                             <div className="accordion-body">
-                                                Discover if Vernex is the right fit for your business by exploring its tailored solutions for various industries and unique needs.
+                                                Discover if Antilla Estates is the right fit for your business by exploring its tailored solutions for various industries and unique needs.
                                             </div>
                                         </div>
                                     </div>
@@ -111,7 +111,7 @@ const page = () => {
                                         </h2>
                                         <div id="collapseEight" className="accordion-collapse collapse" aria-labelledby="headingEight" data-bs-parent="#accordionExample">
                                             <div className="accordion-body">
-                                                Discover if Vernex is the right fit for your business by exploring its tailored solutions for various industries and unique needs.
+                                                Discover if Antilla Estates is the right fit for your business by exploring its tailored solutions for various industries and unique needs.
                                             </div>
                                         </div>
                                     </div>

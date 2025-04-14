@@ -126,7 +126,7 @@ const TeamSection = () => {
                       <img src="assets/img/home3/team-img4.png" alt="" />
                     </div>
                     <div className="team-content">
-                      <span>Founder at Vernex</span>
+                      <span>Founder at Antilla Estates</span>
                       <h5>Michael Daniel</h5>
                     </div>
                     <ul className="social-list">

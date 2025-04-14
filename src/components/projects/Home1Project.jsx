@@ -102,7 +102,7 @@ const Home1Project = () => {
                         </div>
                       </div>
                       <div className="project-content">
-                        <span>Client: Egenslab</span>
+                        <span>Client: Duckman Studio lab</span>
                         <h4><Link href="/project/project-details">Unveiling Iconic Denies</Link></h4>
                       </div>
                     </div>

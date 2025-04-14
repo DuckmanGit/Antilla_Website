@@ -249,7 +249,7 @@ const AboutPage = () => {
                 <div className="founder-content">
                   <p>“We understand your needs and deliver digitaloi marketing through unique selling oneto homeles proposition Our team of expert”.</p>
                   <div className="name-and-desig">
-                    <span>Founder at, Vernex</span>
+                    <span>Founder at, Antilla Estates</span>
                     <h5>Nathan Joshua</h5>
                   </div>
                 </div>
@@ -363,12 +363,12 @@ const AboutPage = () => {
                   <div className="accordion-item wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <h2 className="accordion-header" id="headingTwo">
                       <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                        02. Is Vernex suitable for my business?
+                        02. Is Antilla Estates suitable for my business?
                       </button>
                     </h2>
                     <div id="collapseTwo" className="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                       <div className="accordion-body">
-                        Discover if Vernex is the right fit for your business by exploring its tailored solutions for various industries and unique needs.
+                        Discover if Antilla Estates is the right fit for your business by exploring its tailored solutions for various industries and unique needs.
                       </div>
                     </div>
                   </div>

@@ -21,7 +21,7 @@ const page = () => {
                                     </Link>
                                 </div>
                                 <div className="project-content">
-                                    <span>Client: Egenslab</span>
+                                    <span>Client: Duckman Studio lab</span>
                                     <h4><Link href="/project/project-details">Leading The Way In Innovation</Link></h4>
                                 </div>
                             </div>
@@ -125,7 +125,7 @@ const page = () => {
                                     </Link>
                                 </div>
                                 <div className="project-content">
-                                    <span>Client: Egens Theme</span>
+                                    <span>Client: Duckman Studio Theme</span>
                                     <h4><Link href="/project/project-details">Construction Methodology</Link></h4>
                                 </div>
                             </div>

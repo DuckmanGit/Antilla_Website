@@ -18,7 +18,7 @@ const page = () => {
                                 <img src="/assets/img/home5/project-img1.jpg" alt="" />
                                 <div className="project-content-wrap">
                                     <div className="project-content">
-                                        <span>Client: Egenslab</span>
+                                        <span>Client: Duckman Studio lab</span>
                                         <h3><Link href="/project/project-details">Modern Minimalist Home Design</Link></h3>
                                         <ul>
                                             <li><Link href="/project">Architecture</Link></li>

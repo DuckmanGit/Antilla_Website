@@ -59,7 +59,7 @@ const Banner = () => {
                 <path id="textcirclePath" d="M84,84 m-76,0 a76,76 0 1,1 152,0 a76,76 0 1,1 -152,0" />
               </defs>
               <text>
-                <textPath xlinkHref="#textcirclePath" textLength={470}> * TRANSFORMING VISIONS INTO REALITY WITH VERNEX!</textPath>
+                <textPath xlinkHref="#textcirclePath" textLength={470}> * TRANSFORMING VISIONS INTO REALITY WITH Antilla Estates!</textPath>
               </text>
             </svg>
             <div className="center-icon">

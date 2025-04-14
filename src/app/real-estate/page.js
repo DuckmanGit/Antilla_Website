@@ -39,7 +39,7 @@ const RealEstatePage = () => {
                     <img src="assets/img/HeaderAE-logo.svg" alt="" />
                   </Link>
                   <div className="footer-content">
-                    <p>Welcome to Vernex, where innovation meet our passion in a journey that started dream.</p>
+                    <p>Welcome to Antilla Estates, where innovation meet our passion in a journey that started dream.</p>
                     <ul className="social-list">
                       <li>
                         <a href="https://www.linkedin.com/">
@@ -181,7 +181,7 @@ const RealEstatePage = () => {
           <div className="container">
             <div className="footer-bottom">
               <div className="copyright-area">
-                <p>Copyright 2025 <Link href="/">Vernex</Link> | Design By <a href="https://www.egenslab.com/">Egens Lab</a></p>
+                <p>Copyright 2025 <Link href="/">Antilla Estates</Link> | Design By <a href="https://www.Duckman Studio lab.com/">Duckman Studio  Lab</a></p>
               </div>
               <div className="footer-bottom-right">
                 <ul>

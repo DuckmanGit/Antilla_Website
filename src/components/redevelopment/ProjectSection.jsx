@@ -91,7 +91,7 @@ const ProjectSection = () => {
                       <img src="assets/img/home4/project-img1.jpg" alt="" />
                       <div className="project-content-wrap">
                         <div className="project-content">
-                          <span>Client: Egenslab</span>
+                          <span>Client: Duckman Studio lab</span>
                           <h3><Link href="/project/project-details">Dominating Auto Search</Link></h3>
                           <ul>
                             <li><Link href="/project">Architecture</Link></li>

@@ -47,7 +47,7 @@ const ProjectInfoFlowPage = () => {
                   <img src="/assets/img/home6/project-img1.jpg" alt="" />
                 </Link>
                 <div className="info-flow-content">
-                  <Link href="/project/project-details">Client: Egenslab</Link>
+                  <Link href="/project/project-details">Client: Duckman Studio lab</Link>
                   <h6><Link href="/project/project-details">Unveiling Iconic Identities</Link></h6>
                 </div>
               </div>
@@ -146,7 +146,7 @@ const ProjectInfoFlowPage = () => {
                   <img src="/assets/img/home6/project-img10.jpg" alt="" />
                 </Link>
                 <div className="info-flow-content">
-                  <Link href="/project/project-details">Client: Egens Theme</Link>
+                  <Link href="/project/project-details">Client: Duckman Studio s Theme</Link>
                   <h6><Link href="/project/project-details">Site Planning Strategy</Link></h6>
                 </div>
               </div>

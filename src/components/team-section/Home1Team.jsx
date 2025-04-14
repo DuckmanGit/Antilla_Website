@@ -76,7 +76,7 @@ const Home1Team = () => {
                 <div className="founder-content">
                   <p>“We understand your needs and deliver digitaloi marketing through unique selling oneto homeles proposition Our team of expert”.</p>
                   <div className="name-and-desig">
-                    <span>Founder at, Vernex</span>
+                    <span>Founder at, Antilla Estates</span>
                     <h5>Nathan Joshua</h5>
                   </div>
                 </div>

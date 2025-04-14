@@ -10,7 +10,7 @@ const TeamSection = () => {
             <div className="col-xl-4">
               <div className="team-title-area">
                 <div className="section-title two white wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
-                  <span>The Vernex Team</span>
+                  <span>The Antilla Estates Team</span>
                   <h2>Our Talented Team.</h2>
                 </div>
                 <div className="btn_wrapper">
@@ -47,7 +47,7 @@ const TeamSection = () => {
                       </div>
                     </div>
                     <div className="team-content">
-                      <span>Founder at Vernex</span>
+                      <span>Founder at Antilla Estates</span>
                       <h5>Michael Daniel</h5>
                     </div>
                   </div>

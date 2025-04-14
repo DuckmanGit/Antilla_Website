@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "client": "Egenslabs",
+    "client": "Duckman Studio labs",
     "title": "Dominating Search Results",
     "image": "/assets/img/home2/portfolio-img-01.jpg",
     "grid2Image": "/assets/img/inner-pages/portfolio2-img-01.jpg",
     "tags": ["Web Design", "Development"],
     "link": "/portfolio/details",
-    "company": "Egens Lab",
+    "company": "Duckman Studio  Lab",
     "location": "7 Lake Street, London",
     "projectType": "SEO Marketing",
     "duration": "2 Month",

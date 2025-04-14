@@ -172,7 +172,7 @@ const page = () => {
                       </div>
                       <div className="content">
                         <span>Company:</span>
-                        <h5>Egens Lab</h5>
+                        <h5>Duckman Studio  Lab</h5>
                       </div>
                     </li>
                     <li>

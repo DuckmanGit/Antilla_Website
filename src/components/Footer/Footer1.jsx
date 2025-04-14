@@ -164,7 +164,7 @@ const Footer1 = () => {
                 <div className="container">
                     <div className="footer-bottom">
                         <div className="copyright-area">
-                            <p>Copyright 2025 <Link href="/">Duckman Studio Private Limited</Link> | Design By <a href="https://www.egenslab.com/">Egens Lab</a></p>
+                            <p>Copyright 2025 <Link href="/">Duckman Studio Private Limited</Link> | Design By <a href="https://www.Duckman Studio lab.com/">Duckman Studio  Lab</a></p>
                         </div>
                         <div className="footer-bottom-right">
                             <ul>

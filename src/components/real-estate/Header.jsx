@@ -99,7 +99,7 @@ const Header = () => {
         <div className="sidebar-content-wrap">
           <div className="title-area">
             <span>Get In Touch With Us</span>
-            <h2>Connect With Vernex</h2>
+            <h2>Connect With Antilla Estates</h2>
             <p>Ready to take the first step towards unlocking opportunity realizing goals, and embracing innovation?
             </p>
           </div>
@@ -165,7 +165,7 @@ const Header = () => {
           </ul>
         </div>
         <div className="sidebar-bottom-area">
-          <p>Copyright 2025 <Link href="/">Vernex</Link> | Design By <a href="https://www.egenslab.com/">Egens Lab</a></p>
+          <p>Copyright 2025 <Link href="/">Antilla Estates</Link> | Design By <a href="https://www.Duckman Studio lab.com/">Duckman Studio  Lab</a></p>
         </div>
       </div>
       <div className="header-topbar-wrap">

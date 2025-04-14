@@ -8,7 +8,7 @@ const WhyChooseSection = () => {
           <div className="row mb-70 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
             <div className="col-lg-12 d-flex justify-content-center">
               <div className="section-title2">
-                <h2>Why Choose <br /> Vernex <span /></h2>
+                <h2>Why Choose <br /> Antilla Estates <span /></h2>
               </div>
             </div>
           </div>

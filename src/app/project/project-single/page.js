@@ -45,7 +45,7 @@ const ProjectSinglePage = () => {
                                         <div className="project-bg" style={{ backgroundImage: 'linear-gradient(180deg, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.4) 100%), url(/assets/img/inner-pages/project-single-img1.jpg)' }} />
                                         <div className="project-content-wrap">
                                             <div className="project-content">
-                                                <span>Client: Egenslab</span>
+                                                <span>Client: Duckman Studio lab</span>
                                                 <h2><Link href="/project/project-details">Dominating Auto Search</Link></h2>
                                                 <ul>
                                                     <li><Link href="/project">Architecture</Link></li>
