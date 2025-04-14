@@ -61,7 +61,7 @@ const ServiceDetailsPage = () => {
     <div className="row">
       <div className="col-lg-12">
         <div className="service-details-thumb mb-60">
-          <img src="/assets/img/Home3/ServiceDetails.jpg" alt="" />
+          <img src="/assets/img/Home3/service-details.jpg" alt="" />
         </div>
         <div className="title-area mb-60">
           <h2>Residential <span>Construction</span></h2>
