@@ -59,7 +59,7 @@ const ArchitecturePage = () => {
                   <rect y="12.6" width="11.2" height="1.4" rx="0.699998" />
                 </svg>
               </div>
-              <span>Menu Bar</span>
+              <span>Menu</span>
             </div>
           </div>
           <div className="nav-right d-sm-flex jsutify-content-end align-items-center d-none">
