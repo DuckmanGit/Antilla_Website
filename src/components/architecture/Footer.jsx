@@ -13,7 +13,7 @@ const Footer = () => {
             <div className="footer-logo-and-contact-area">
               <div className="footer-logo-area">
                 <Link href="/" className="footer-logo">
-                  <img src="assets/img/headerAE-logo.svg" alt="" />
+                  <img src="assets/img/header-logo.svg" alt="" />
                 </Link>
                 <div className="footer-content">
                   <p>Welcome to Antilla Estates, where innovation meet our passion in a journey that started dream.</p>

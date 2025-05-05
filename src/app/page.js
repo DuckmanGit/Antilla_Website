@@ -48,7 +48,7 @@ const ArchitecturePage = () => {
       <header className={`header-area style-3 ${isSticky ? 'sticky' : ''}`}>
         <div className="container-fluid d-flex flex-nowrap align-items-center justify-content-between">
           <div className="header-logo">
-            <Link href="/"><img alt="image" className="img-fluid" src="assets/img/headerAE-logo.svg" /></Link>
+            <Link href="/"><img alt="image" className="img-fluid" src="assets/img/header-logo.svg" /></Link>
           </div>
           <div className="menu-btn" onClick={toggleMenu}>
             <div className="menu-btn-wrap">

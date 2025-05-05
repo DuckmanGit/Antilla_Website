@@ -86,7 +86,9 @@ const ProcessSection = () => {
                                                         </svg>
                                                     </div>
                                                     <h4>Pre-Design <br /> Discovery Phase</h4>
-                                                    <p>Conduct a thoroug need effortless assessment the understand your current marketing.</p>
+                                                    <p>We begin by engaging with you to understand your goals, challenges, and opportunities. Through stakeholder interviews, site analysis, and feasibility studies, we gather all essential data to shape the project direction with clarity and confidence.
+
+</p>
                                                 </div>
                                             </div>
                                         </SwiperSlide>
@@ -105,7 +107,7 @@ const ProcessSection = () => {
                                                         </svg>
                                                     </div>
                                                     <h4>Conceptual <br /> Design</h4>
-                                                    <p>Conduct a thoroug need effortless assessment the understand your current marketing.</p>
+                                                    <p>We translate insights from the discovery phase into rough layouts, sketches, and 3D visualizations. This phase defines the spatial flow, look, and feel of your project while aligning with functional and aesthetic goals.</p>
                                                 </div>
                                             </div>
                                         </SwiperSlide>
@@ -123,7 +125,7 @@ const ProcessSection = () => {
                                                         </svg>
                                                     </div>
                                                     <h4>Construction <br /> Administration</h4>
-                                                    <p>Conduct a thoroug need effortless assessment the understand your current marketing.</p>
+                                                    <p>Our team monitors construction activities to ensure adherence to design specifications, timelines, and budgets. We act as your advocate, resolving on-site issues and maintaining quality control throughout the building phase.</p>
                                                 </div>
                                             </div>
                                         </SwiperSlide>
@@ -141,7 +143,7 @@ const ProcessSection = () => {
                                                         </svg>
                                                     </div>
                                                     <h4>Design <br /> Development</h4>
-                                                    <p>Conduct a thoroug need effortless assessment the understand your current marketing.</p>
+                                                    <p>This stage deepens the design with technical refinements, material specifications, and systems integration. We coordinate with consultants and prepare detailed drawings to move the project toward construction readiness.</p>
                                                 </div>
                                             </div>
                                         </SwiperSlide>
@@ -159,7 +161,9 @@ const ProcessSection = () => {
                                                         </svg>
                                                     </div>
                                                     <h4>Construction <br /> Administration</h4>
-                                                    <p>Conduct a thoroug need effortless assessment the understand your current marketing.</p>
+                                                    <p>We oversee the construction process to ensure every detail aligns with the approved design. From site inspections to contractor coordination and quality assurance, we safeguard your project’s timeline, cost, and craftsmanship.
+
+</p>
                                                 </div>
                                             </div>
                                         </SwiperSlide>
@@ -176,8 +180,10 @@ const ProcessSection = () => {
                                                             </g>
                                                         </svg>
                                                     </div>
-                                                    <h4>Design <br /> Development</h4>
-                                                    <p>Conduct a thoroug need effortless assessment the understand your current marketing.</p>
+                                                    <h4>Sales  <br />&  Marketing</h4>
+                                                    <p>We support your project's launch with powerful marketing strategies and sales tools. From branding and brochures to digital campaigns and site presentations, we help you connect with your audience and drive successful engagement.
+
+</p>
                                                 </div>
                                             </div>
                                         </SwiperSlide>

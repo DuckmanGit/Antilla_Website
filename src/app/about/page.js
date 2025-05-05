@@ -2,7 +2,7 @@
 import Breadcrum from '@/components/common/Breadcrum'
 
 import Header1 from '@/components/header/Header1'
-import Footer1 from '@/components/Footer/Footer1'
+import Footer from '@/components/architecture/Footer'
 import Link from 'next/link'
 import useModalVideo from '@/utils/useModalVideo'
 import Home1Testimonial from '@/components/testimonial/Home1Testimonial'
@@ -476,7 +476,7 @@ const AboutPage = () => {
         </div>
       </div>
 
-      <Footer1 />
+      <Footer/>
     </div>
   )
 }
