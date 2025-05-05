@@ -79,7 +79,7 @@ const GallerySection = () => {
               <div className="icon-area">
                 <a href="https://www.instagram.com/"><i className="bx bxl-instagram" /></a>
               </div>
-              <img src="assets/img/home3/gallery3.jpg" alt="" />
+              <img src="assets/img/home3/Gallery3.jpg" alt="" />
             </div>
           </SwiperSlide>
           <SwiperSlide className="swiper-slide">
