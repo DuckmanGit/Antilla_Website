@@ -78,8 +78,8 @@ const page = () => {
                                             </div>
                                             <div className="col-md-12">
                                                 <div className="form-inner">
-                                                    <label>Service Type</label>
-                                                    <SelectComponent options={["Conceptual Design","Project Planning","Site Analysis"]} placeholder="Site Analysis"/>
+                                                    <label>Project Intrested</label>
+                                                    <SelectComponent options={["Villa","Apartment", "Land","Other"]} placeholder="Site Visit"/>
                                                     
                                                 </div>
                                             </div>
