@@ -21,8 +21,8 @@ const page = () => {
                                     </Link>
                                 </div>
                                 <div className="project-content">
-                                    <span>Client: Duckman Studio lab</span>
-                                    <h4><Link href="/project/project-details">Leading The Way In Innovation</Link></h4>
+                                    <span>Location : Mumbai</span>
+                                    <h4><Link href="/project/project-details">Villa Royale Gold</Link></h4>
                                 </div>
                             </div>
                         </div>
@@ -34,8 +34,8 @@ const page = () => {
                                     </Link>
                                 </div>
                                 <div className="project-content">
-                                    <span>Client: Brodie</span>
-                                    <h4><Link href="/project/project-details">Constructing With Precision</Link></h4>
+                                    <span>Location : Mumbai</span>
+                                    <h4><Link href="/project/project-details">Villa Imperio Palava</Link></h4>
                                 </div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@ const page = () => {
                                     </Link>
                                 </div>
                                 <div className="project-content">
-                                    <span>Client: Nexaq</span>
-                                    <h4><Link href="/project/project-details">Crafting The Framework</Link></h4>
+                                    <span>Location : Mumbai</span>
+                                    <h4><Link href="/project/project-details">Villa Royal Palava</Link></h4>
                                 </div>
                             </div>
                         </div>
@@ -60,87 +60,10 @@ const page = () => {
                                     </Link>
                                 </div>
                                 <div className="project-content">
-                                    <span>Client: Zenfy</span>
-                                    <h4><Link href="/project/project-details">Construction Master Plan</Link></h4>
+                                    <span>Location : Alibag</span>
+                                    <h4><Link href="/project/project-details">Sol De Alibag</Link></h4>
                                 </div>
                             </div>
-                        </div>
-                        <div className="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="800ms" data-wow-duration="1500ms">
-                            <div className="project-card two magnetic-item">
-                                <div className="project-img-wrap">
-                                    <Link href="/project/project-details" className="project-img">
-                                        <img src="/assets/img/home1/project-img5.jpg" alt="" />
-                                    </Link>
-                                </div>
-                                <div className="project-content">
-                                    <span>Client: Triprex</span>
-                                    <h4><Link href="/project/project-details">Project Build Vision</Link></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="600ms" data-wow-duration="1500ms">
-                            <div className="project-card two magnetic-item">
-                                <div className="project-img-wrap">
-                                    <Link href="/project/project-details" className="project-img">
-                                        <img src="/assets/img/home1/project-img6.jpg" alt="" />
-                                    </Link>
-                                </div>
-                                <div className="project-content">
-                                    <span>Client: Softconic</span>
-                                    <h4><Link href="/project/project-details">Project Construction Phases</Link></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
-                            <div className="project-card two magnetic-item">
-                                <div className="project-img-wrap">
-                                    <Link href="/project/project-details" className="project-img">
-                                        <img src="/assets/img/home1/project-img7.jpg" alt="" />
-                                    </Link>
-                                </div>
-                                <div className="project-content">
-                                    <span>Client: Brodie</span>
-                                    <h4><Link href="/project/project-details">Building The Future Change</Link></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
-                            <div className="project-card two magnetic-item">
-                                <div className="project-img-wrap">
-                                    <Link href="/project/project-details" className="project-img">
-                                        <img src="/assets/img/home1/project-img8.jpg" alt="" />
-                                    </Link>
-                                </div>
-                                <div className="project-content">
-                                    <span>Client: Axleo</span>
-                                    <h4><Link href="/project/project-details">Crafting The Framework</Link></h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
-                            <div className="project-card two magnetic-item">
-                                <div className="project-img-wrap">
-                                    <Link href="/project/project-details" className="project-img">
-                                        <img src="/assets/img/home1/project-img9.jpg" alt="" />
-                                    </Link>
-                                </div>
-                                <div className="project-content">
-                                    <span>Client: Duckman Studio Theme</span>
-                                    <h4><Link href="/project/project-details">Construction Methodology</Link></h4>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="row">
-                        <div className="col-lg-12 d-flex justify-content-center">
-                            <a href="#" className="primary-btn2 bounce_up">
-                                <span>
-                                    Load More
-                                    <svg viewBox="0 0 13 20">
-                                        <polyline points="0.5 19.5 3 19.5 12.5 10 3 0.5" />
-                                    </svg>
-                                </span>
-                            </a>
                         </div>
                     </div>
                 </div>

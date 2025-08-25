@@ -152,7 +152,7 @@ const AboutSection = () => {
           <div className="col-lg-8">
             <div className="section-title three">
               <span>Our Story Journey</span>
-              <h2>Meet the Visionaries Behind Our Architecture.</h2>
+              <h2>Real-Estate is all about Selection.</h2>
               <p>At the heart of Antilla Estate Private Limited is a leadership team that blends deep-rooted real estate expertise with a bold, future-ready vision. Coming from a legacy of asset holding and property management worth over ₹1000 Crores, our leaders understand the value of land, the responsibility of redevelopment, and the emotion tied to every home.</p>
             </div>
           </div>
@@ -164,19 +164,19 @@ const AboutSection = () => {
                 <div className="col-md-4 col-sm-6">
                   <div className="single-content">
                     <h5>WHO WE ARE</h5>
-                    <p>We specialize in society redevelopment, transforming aging buildings into modern, luxurious, and future-ready homes. Our projects are crafted by India’s most respected architect, best architects from around the globe, and built with unmatched quality by Larsen & Toubro (best construction companies with latest tech). &amp; start.</p>
+                    <p>At Antilla Estates, we specialize in curating and holding the finest properties across Mumbai and Alibaug. We carefully select only the best residences within landmark projects—designed by world-renowned architects and built by India’s most trusted construction companies. Every property in our portfolio reflects a blend of luxury, comfort, and long-term value. &amp; start.</p>
                   </div>
                 </div>
                 <div className="col-md-4 col-sm-6">
                   <div className="single-content">
                     <h5>OUR MISSION</h5>
-                    <p>To redefine the future of housing in Mumbai by transforming aging society buildings into luxurious, safe, and sustainable homes—crafted with world-class design, built with unmatched precision, and delivered with integrity. &amp; start.</p>
+                    <p>To redefine property ownership by offering our clients the most exclusive and future-ready homes. Through meticulous selection, world-class design, and trusted partnerships, we aim to create a portfolio that enhances lifestyle, promotes well-being, and secures financial growth. &amp; start.</p>
                   </div>
                 </div>
                 <div className="col-md-4 col-sm-6">
                   <div className="single-content">
                     <h5>CORE VALUE</h5>
-                    <p>We aim to empower residential societies through transparent partnerships, respectful redevelopment, and a deep commitment to community well-being. By working with legendary names like best architects from around the globe and best construction companies with latest tech, we bring excellence to every square foot, and create living spaces that uplift the lives of every resident. &amp; start.</p>
+                    <p>We believe in excellence, trust, and vision. By selecting only the finest projects and properties, crafted by leading global architects and executed by India’s best construction companies, we ensure unmatched quality and enduring value. Our commitment is to deliver homes that not only enrich lifestyles but also consistently outperform in returns—making Antilla Estates the benchmark for smart, luxury investment. &amp; start.</p>
                   </div>
                 </div>
               </div>
@@ -240,10 +240,10 @@ const AboutSection = () => {
             <div className="single-counter">
               <div className="content bounce_up">
                 <div className="number">
-                  <h2 className="counter"><CountUp end={45} /></h2>
+                  <h2 className="counter"><CountUp end={100} /></h2>
                   <span>+</span>
                 </div>
-                <p>Green Spaces</p>
+                <p>Villas</p>
               </div>
             </div>
           </div>
@@ -253,7 +253,7 @@ const AboutSection = () => {
                 <div className="number">
                   <h2 className="counter"><CountUp end={15} /></h2>
                 </div>
-                <p>Skilled Professionals</p>
+                <p>Skilled Realestate Strategist</p>
               </div>
             </div>
           </div>
@@ -285,7 +285,7 @@ const AboutSection = () => {
       <div className="container">
         <div className="logo-wrap">
           <div className="logo-title">
-            <h6>A partner, Not A Developer</h6>
+            <h6>A business partner, Not A Developer</h6>
           </div>
           {/* <div className="marquee">
             <div className="marquee__group">

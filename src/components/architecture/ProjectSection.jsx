@@ -11,7 +11,7 @@ const ProjectSection = () => {
         <div className="col-xxl-7 col-xl-8 col-lg-9">
           <div className="section-title three text-center">
             <span>Vision Of Projects</span>
-            <h2>Behind the Scenes</h2>
+            <h2>Planning and Strategy</h2>
             <p>Once the project is greenlit, best architects from around the globe’s team crafts iconic yet community-focused designs, marrying luxury with livability. These blueprints are then brought to life by best construction companies with latest tech’s construction excellence — a brand synonymous with safety, speed, and quality across India.</p>
           </div>
         </div>
@@ -89,7 +89,7 @@ const ProjectSection = () => {
             <div className="project-content-wrap">
               <div className="project-content">
                 <span>View: Site</span>
-                <h2><Link href="/">Adaptive Reuse Material.</Link></h2>
+                <h2><Link href="/">Ready To Move In.</Link></h2>
                 <ul>
                   <li><Link href="/">Renovation</Link></li>
                   <li><Link href="/">Architecture</Link></li>

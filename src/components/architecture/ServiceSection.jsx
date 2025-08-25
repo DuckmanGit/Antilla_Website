@@ -21,16 +21,16 @@ const ServiceSection = () => {
                 <div className="row justify-content-center mb-70 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div className="col-xxl-7 col-xl-8 col-lg-9">
                         <div className="section-title three text-center">
-                            <span>Best Solutions</span>
-                            <h2>Architectural Solutions</h2>
-                            <p>Designed by best architects from around the globe, the tower features a striking contemporary façade and intelligently designed homes with abundant natural light. Each apartment offers modern elegance with premium fittings, ample parking, and panoramic views of the city.</p>
+                            <span>Best Home Solutions</span>
+                            <h2>Handpicked from the best.</h2>
+                            <p>Antilla Estates curates the finest properties across Mumbai and Alibaug, offering a portfolio of state-of-the-art projects that seamlessly blend modern design with everyday comfort. Beyond real estate ownership, our vision is to elevate lifestyles by combining wellness, contemporary living, and long-term financial growth. What sets us apart is performance, our selected properties consistently deliver up to 4x higher ROI compared to other holdings in the same projects, making Antilla Estates the benchmark for smart and sustainable investment.</p>
                         </div>
                     </div>
                 </div>
                 <div className="row g-0 mb-60">
                     <div className="col-lg-7">
                         <ul className="service-list">
-                        {["Conceptual Design", "Schematic Design", "Interior Design", "Sustainable Design", "Urban Planning"].map((item,index) => (
+                        {["Villas In Mumbai", "Villas In Lonavala", "Villas In Alibagh", "Penthouses", "Upcomming"].map((item,index) => (
                             <li key={index} onMouseEnter={() => handleRowHover(index)} className="single-service wow animate fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
                                 <div className="service-content">
                                     <span>{index}.</span>

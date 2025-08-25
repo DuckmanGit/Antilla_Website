@@ -62,8 +62,8 @@ const ProcessSection = () => {
                         <div className="col-lg-7">
                             <div className="section-title three text-center">
                                 <span>How We Work</span>
-                                <h2>Methodology By Design</h2>
-                                <p>At Antilla Estate, we don’t just follow a process — we design one. Every step in our redevelopment journey is thoughtfully structured to combine architectural brilliance, engineering excellence, and community empathy. This is our Methodology by Design — a fusion of creativity and structure that ensures your society’s transformation is smooth, transparent, and inspiring.</p>
+                                <h2>Strategy, Selection and Design</h2>
+                                <p>At Antilla Estates, we don’t just acquire assets — we curate them. Every property we hold is carefully selected from the finest projects, ensuring a balance of architectural brilliance, construction excellence, and long-term financial growth. This is our Philosophy of Selection — a fusion of vision and discipline that makes every holding a benchmark of value, trust, and luxury.</p>
                             </div>
                         </div>
                     </div>
@@ -85,10 +85,8 @@ const ProcessSection = () => {
                                                             </g>
                                                         </svg>
                                                     </div>
-                                                    <h4>Pre-Design <br /> Discovery Phase</h4>
-                                                    <p>We begin by engaging with you to understand your goals, challenges, and opportunities. Through stakeholder interviews, site analysis, and feasibility studies, we gather all essential data to shape the project direction with clarity and confidence.
-
-</p>
+                                                    <h4>Market & Location Analysis</h4>
+                                                    <p>Study macro trends: city growth corridors, infrastructure projects, demand-supply dynamics.Shortlist micro-markets in Mumbai & Alibaug with proven appreciation potential and strong rental yields.</p>
                                                 </div>
                                             </div>
                                         </SwiperSlide>
@@ -106,8 +104,8 @@ const ProcessSection = () => {
                                                             </g>
                                                         </svg>
                                                     </div>
-                                                    <h4>Conceptual <br /> Design</h4>
-                                                    <p>We translate insights from the discovery phase into rough layouts, sketches, and 3D visualizations. This phase defines the spatial flow, look, and feel of your project while aligning with functional and aesthetic goals.</p>
+                                                    <h4>Project & Developer Screening</h4>
+                                                    <p>Prioritize projects by top developers with a track record of timely delivery and quality. Assess the credibility, financial stability, and past performance of the developer.</p>
                                                 </div>
                                             </div>
                                         </SwiperSlide>
@@ -124,8 +122,8 @@ const ProcessSection = () => {
                                                             </g>
                                                         </svg>
                                                     </div>
-                                                    <h4>Construction <br /> Administration</h4>
-                                                    <p>Our team monitors construction activities to ensure adherence to design specifications, timelines, and budgets. We act as your advocate, resolving on-site issues and maintaining quality control throughout the building phase.</p>
+                                                    <h4>Architectural & Construction Quality </h4>
+                                                    <p>Evaluate design pedigree (renowned architects, global design firms). Ensure construction is handled by Tier-1 contractors (like L&T) with latest technology and durability standards.</p>
                                                 </div>
                                             </div>
                                         </SwiperSlide>
@@ -142,8 +140,8 @@ const ProcessSection = () => {
                                                             </g>
                                                         </svg>
                                                     </div>
-                                                    <h4>Design <br /> Development</h4>
-                                                    <p>This stage deepens the design with technical refinements, material specifications, and systems integration. We coordinate with consultants and prepare detailed drawings to move the project toward construction readiness.</p>
+                                                    <h4>Financial & ROI Modeling</h4>
+                                                    <p>When evaluating any property, Antilla Estates first compares the entry price against current market benchmarks to ensure a competitive acquisition. We then model the project’s ROI by assessing its resale potential, rental yield, and long-term appreciation prospects. Finally, every investment is measured against our core philosophy: the asset must demonstrate the ability to consistently outperform standard project returns, delivering up to 3–4 times higher value than average holdings in the same market.</p>
                                                 </div>
                                             </div>
                                         </SwiperSlide>
@@ -160,10 +158,8 @@ const ProcessSection = () => {
                                                             </g>
                                                         </svg>
                                                     </div>
-                                                    <h4>Construction <br /> Administration</h4>
-                                                    <p>We oversee the construction process to ensure every detail aligns with the approved design. From site inspections to contractor coordination and quality assurance, we safeguard your project’s timeline, cost, and craftsmanship.
-
-</p>
+                                                    <h4>Legal & Regulatory Due Diligence</h4>
+                                                    <p>Before acquiring any property, Antilla Estates conducts thorough legal and regulatory due diligence. This includes verifying RERA approvals, clear land titles, encumbrance certificates, and full compliance with local laws. We also ensure there is no pending litigation or irregularity that could compromise the property’s long-term value or security, safeguarding every investment with complete transparency and trust.</p>
                                                 </div>
                                             </div>
                                         </SwiperSlide>
@@ -180,10 +176,8 @@ const ProcessSection = () => {
                                                             </g>
                                                         </svg>
                                                     </div>
-                                                    <h4>Sales  <br />&  Marketing</h4>
-                                                    <p>We support your project's launch with powerful marketing strategies and sales tools. From branding and brochures to digital campaigns and site presentations, we help you connect with your audience and drive successful engagement.
-
-</p>
+                                                    <h4>Lifestyle & Community Fit</h4>
+                                                    <p>At Antilla Estates, every acquisition is measured against our brand promise of luxury, comfort, and well-being. We carefully assess whether the property not only delivers strong financial growth but also elevates the lifestyle standards of its residents—be it HNIs, NRIs, or discerning investors. Each holding must embody a balance of exclusivity, design excellence, and long-term value, ensuring it reflects the essence of Antilla’s vision.</p>
                                                 </div>
                                             </div>
                                         </SwiperSlide>
