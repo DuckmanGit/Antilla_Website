@@ -22,7 +22,7 @@ const ServiceSection = () => {
                     <div className="col-xxl-7 col-xl-8 col-lg-9">
                         <div className="section-title three text-center">
                             <span>Best Home Solutions</span>
-                            <h2>Handpicked from the best.</h2>
+                            <h2>Selected from the best.</h2>
                             <p>Antilla Estates curates the finest properties across Mumbai and Alibaug, offering a portfolio of state-of-the-art projects that seamlessly blend modern design with everyday comfort. Beyond real estate ownership, our vision is to elevate lifestyles by combining wellness, contemporary living, and long-term financial growth. What sets us apart is performance, our selected properties consistently deliver up to 4x higher ROI compared to other holdings in the same projects, making Antilla Estates the benchmark for smart and sustainable investment.</p>
                         </div>
                     </div>

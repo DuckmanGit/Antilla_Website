@@ -47,7 +47,9 @@ const ProjectInfoFlowPage = () => {
                   <img src="/assets/img/home6/project-img1.jpg" alt="" />
                 </Link>
                 <div className="info-flow-content">
-                  <Link href="/project/project-details">Client: Duckman Studio lab</Link>
+                  <Link href="/project/project-details">
+                  
+                  Client: Duckman Studio lab</Link>
                   <h6><Link href="/project/project-details">Unveiling Iconic Identities</Link></h6>
                 </div>
               </div>
