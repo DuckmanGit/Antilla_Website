@@ -15,7 +15,7 @@ const page = () => {
           <div className="row g-lg-4 gy-5 mb-120">
             <div className="col-lg-8">
               <div className="project-details-thumb mb-50">
-                <img src="/assets/img/inner-pages/project-details-thumb-img.jpg" alt="" />
+                <img src="/assets/img/inner-pages/breadcrumbbanner.jpg" alt="" />
               </div>
               <div className="details-content-wrapper">
                 <h3>Our Begin Now To Beingonl.</h3>
