@@ -14,7 +14,7 @@ const Home1Service = () => {
                     </div>
                     <div className="col-lg-4">
                         <div className="section-content">
-                            <p>Quality is not expensive is unvaluable.</p>
+                            <p>Quality is not expensive, it's invaluable.</p>
                         </div>
                     </div>
                 </div>
