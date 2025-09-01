@@ -125,7 +125,7 @@ const Header1 = ({ style = "", fluid }) => {
                                     </svg>
                                 </div>
                                 <div className="content">
-                                    <span>CALL ANY TIME</span>
+                                    <span>CALL Us</span>
                                     <h6><a href="8292552841">+91 8292552841</a></h6>
                                 </div>
                             </div>

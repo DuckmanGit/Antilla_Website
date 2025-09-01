@@ -10212,6 +10212,13 @@ header.style-3 {
           z-index: 15;
         }
       }
+      &.prev {
+      opacity: 1;
+      z-index: 10;
+      .service-img {
+        animation: qodef-animate-image-out 1s cubic-bezier(0.78, 0.2, 0.21, 0.88) forwards;
+      }
+      
     }
     @keyframes qodef-animate-image-out {
       0% {

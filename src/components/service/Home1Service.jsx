@@ -14,7 +14,7 @@ const Home1Service = () => {
                     </div>
                     <div className="col-lg-4">
                         <div className="section-content">
-                            <p>We understand your needs and delivery digitaloi marketing through unique selling oneto homeles proposition Our team of expert.</p>
+                            <p>Quality is not expensive is unvaluable.</p>
                         </div>
                     </div>
                 </div>

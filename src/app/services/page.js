@@ -18,13 +18,13 @@ const ServicePage = () => {
           <div className="row justify-content-between align-items-end mb-80 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
             <div className="col-lg-4">
               <div className="section-title">
-                <span>Our Construction Services</span>
-                <h2>Building Your Dreams.</h2>
+                <span>What We Build?</span>
+                <h2>Building unique experiences.</h2>
               </div>
             </div>
             <div className="col-lg-4">
               <div className="section-content">
-                <p>We understand your needs and delivery digitaloi marketing through unique selling oneto homeles proposition Our team of expert.</p>
+                <p>"Quality is not expensive is unvaluable."</p>
               </div>
             </div>
           </div>
@@ -32,7 +32,7 @@ const ServicePage = () => {
             <div className="col-lg-12">
               <ul className="sevices-wrap">
                 <li className="single-services mb-20 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
-                  <h3><Link href="/services/service-details">Residential <span>Construction</span></Link></h3>
+                  <h3><Link href="/services/service-details">Villa <span>Construction</span></Link></h3>
                   <div className="content">
                     <p>Health and care consulting refers to the practice of providing expert
                       advice and guidance.</p>

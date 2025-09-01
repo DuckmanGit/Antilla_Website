@@ -3,14 +3,15 @@ import Link from 'next/link'
 import React, { useState } from 'react'
 
 const ServiceSection = () => {
+    
     const awardData = [
-        { name: "Conceptual Design" },
-        { name: "Schematic Design" },
-        { name: "Interior Design" },
-        { name: "Sustainable Design" },
-        { name: "Urban Planning" }
+        { name: "Villa In Mumbai" },
+        { name: "Villa In Lonovala" },
+        { name: "IVilla In Alibag" },
+        { name: "Special For Some" },
+        { name: "Upcomming" }
     ];
-    const [hoveredRowIndex, setHoveredRowIndex] = useState(null);
+    const [hoveredRowIndex, setHoveredRowIndex] = useState(1);
 
     const handleRowHover = (index) => {
         setHoveredRowIndex(index);
@@ -30,10 +31,10 @@ const ServiceSection = () => {
                 <div className="row g-0 mb-60">
                     <div className="col-lg-7">
                         <ul className="service-list">
-                        {["Villas In Mumbai", "Villas In Lonavala", "Villas In Alibagh", "Penthouses", "Upcomming"].map((item,index) => (
+                        {["Villas In Mumbai", "Villas In Lonavala", "Villas In Alibagh", "Special For Some", "Upcomming"].map((item,index) => (
                             <li key={index} onMouseEnter={() => handleRowHover(index)} className="single-service wow animate fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
                                 <div className="service-content">
-                                    <span>{index}.</span>
+                                    <span>{index+1}.</span>
                                     <h5>
                                         <Link href="/services/service-details">{item}
                                         </Link>
