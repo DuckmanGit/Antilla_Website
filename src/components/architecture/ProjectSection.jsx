@@ -12,7 +12,7 @@ const ProjectSection = () => {
           <div className="section-title three text-center">
             <span>Vision Of Projects</span>
             <h2>Planning and Strategy</h2>
-            <p>Once the project is greenlit, best architects from around the globe’s team crafts iconic yet community-focused designs, marrying luxury with livability. These blueprints are then brought to life by best construction companies with latest tech’s construction excellence — a brand synonymous with safety, speed, and quality across India.</p>
+            <p>At Antilla Estates, our asset holding strategy is rooted in a rigorous data-driven approach that ensures every property we acquire is not only future-ready but also among the finest in the market. We benchmark entry prices against real-time market analytics, track ROI through rental yields and resale trends, and validate long-term appreciation using predictive modeling. Compliance checks, demographic insights, and lifestyle indices further shape our acquisitions, guaranteeing risk-free growth. This disciplined methodology means our portfolio consistently outperforms conventional benchmarks, making Antilla Estates synonymous with luxury, reliability, and superior value—delivering properties that stand as the best investments for generations.</p>
           </div>
         </div>
       </div>
