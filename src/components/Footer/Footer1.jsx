@@ -1,3 +1,4 @@
+
 import Link from 'next/link'
 import React from 'react'
 
@@ -10,7 +11,7 @@ const Footer1 = () => {
                         <div className="footer-logo-and-contact-area">
                             <div className="footer-logo-area">
                                 <Link href="/" className="footer-logo">
-                                    <img src="/assets/img/HeaderAE-logo.svg" alt="" />
+                                    <img src="/assets/img/HeaderAE-logo.svg" width="150px" height="80px" alt="" />
                                 </Link>
                                 <div className="footer-content">
                                     <p>Welcome to Antilla, where innovation meet our passion in a journey that started dream.</p>
@@ -183,3 +184,4 @@ const Footer1 = () => {
 }
 
 export default Footer1
+

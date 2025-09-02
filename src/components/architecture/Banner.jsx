@@ -1,3 +1,5 @@
+
+
 "use client"
 import useModalVideo from '@/utils/useModalVideo'
 import Link from 'next/link'
@@ -28,7 +30,7 @@ const Banner = () => {
                             </Link>
                         </div>
                         <div className="banner-logo btn_wrapper">
-                            <img src="assets/img/Home3/on-banner.svg" alt="" />
+                            <img src="assets/img/Home3/on-banner.png" alt="" />
                         </div>
                     </div>
                 </div>
@@ -56,3 +58,4 @@ const Banner = () => {
 }
 
 export default Banner
+
