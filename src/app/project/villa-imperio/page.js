@@ -15,19 +15,21 @@ const page = () => {
           <div className="row g-lg-4 gy-5 mb-120">
             <div className="col-lg-8">
               <div className="project-details-thumb mb-50">
-                <img src="/assets/img/home3/august/villa-royale-gold.jpg" alt="" />
+                <img src="/assets/img/home3/august/lodha.jpg" alt="" />
               </div>
               <div className="details-content-wrapper">
-                <h3>Our Begin Now To Beingonl.</h3>
+                <h3>Welcome to the finest properties of Lodha Imperio</h3>
                 <span className="line-break" />
-                <p>urna Aenean onewaryzo eleifend vitae tellus a facilisis. Nunc posuere at augue eget porta. Inei odio tellus, dignissim fermentumara purus nec, consequat dapibus metus.Vivamus urna worlda mauris, faucibus at egestas quis, fermentum egetonav neque. Duis pharetra lectus nec risusonl pellentesque, vitae aliquet nisi dapibus. Sed volutpat mi velit, ateng maximus est eleifend accui Fusce porttitor ex arcu. Phasellus viverra lorem a nibh placerat tincidunt.bolgotai Aliquam andit rutrum elementum urna, vel fringilla tellus varius ut. Morbi non velit odio.</p>
-                <span className="line-break" />
-                <span className="line-break" />
-                <span className="line-break" />
-                <h4>Before Work</h4>
+                <p>Magnificent villas 350 sq. yards onwards, thoughtfully designed to offer expansive living, timeless architecture, and the privacy of a truly distinguished address.
+Here, hosting is more than tradition - it’s a privilege. A setting where every gathering reflects your stature and sense of style.</p>
                 <span className="line-break" />
                 <span className="line-break" />
-                <p>urna Aenean onewaryzo eleifend vitae tellus a facilisis. Nunc posuere at augue eget porta. Inei odio tellus, dignissim fermentumara purus nec, consequat dapibus metus.Vivamus urna worlda mauris, faucibus at egestas quis, fermentum egetonav neque. Duis pharetra lectus nec risusonl pellentesque</p>
+                <span className="line-break" />
+                <h4>A lifestyle rooted in legacy</h4>
+                <span className="line-break" />
+                <span className="line-break" />
+                <p>Estate living here at Palava traces back to European aristocracy - where elegant architecture, serene green spaces, and thoughtfully curated landscapes offer a life of lasting charm, and everyday beauty.
+Self-sufficient. Secluded. Singular.</p>
                 <span className="line-break" />
                 <span className="line-break" />
                 <ul>
@@ -35,37 +37,37 @@ const page = () => {
                     <svg xmlns="http://www.w3.org/2000/svg" width={15} height={15} viewBox="0 0 15 15">
                       <path d="M0.376831 8.16821C-0.247095 8.54593 -0.0579659 9.49862 0.662688 9.60837C1.24211 9.69666 1.52052 10.3701 1.17304 10.8431C0.740845 11.4312 1.27942 12.2389 1.98713 12.0639C2.55609 11.9231 3.07065 12.4387 2.9302 13.0088C2.75556 13.718 3.56158 14.2577 4.14855 13.8246C4.62054 13.4764 5.29275 13.7554 5.38073 14.336C5.49024 15.0581 6.44099 15.2476 6.81798 14.6224C7.12107 14.1198 7.84864 14.1198 8.15171 14.6224C8.52867 15.2476 9.47943 15.0581 9.58896 14.336C9.67707 13.7554 10.3492 13.4764 10.8211 13.8246C11.4081 14.2577 12.2142 13.718 12.0395 13.0088C11.899 12.4387 12.4136 11.9231 12.9826 12.0639C13.6903 12.2389 14.2289 11.4312 13.7967 10.8431C13.4492 10.3701 13.7276 9.69653 14.307 9.60837C15.0276 9.49864 15.2168 8.54597 14.5929 8.16821C14.0912 7.86452 14.0912 7.13547 14.5929 6.83178C15.2168 6.45407 15.0277 5.50138 14.307 5.39162C13.7276 5.30334 13.4492 4.62989 13.7967 4.15695C14.2289 3.56879 13.6903 2.76112 12.9826 2.93613C12.4136 3.07687 11.8991 2.5613 12.0395 1.99115C12.2141 1.28199 11.4081 0.742345 10.8211 1.17541C10.3492 1.52356 9.67695 1.2446 9.58896 0.664029C9.47945 -0.0580599 8.5287 -0.247606 8.15171 0.377594C7.84863 0.880237 7.12106 0.880237 6.81798 0.377594C6.44103 -0.247596 5.49027 -0.0580833 5.38073 0.664029C5.29263 1.24462 4.62054 1.5236 4.14855 1.17541C3.56158 0.742345 2.75554 1.28201 2.9302 1.99115C3.07065 2.56126 2.55612 3.07686 1.98713 2.93613C1.2794 2.76113 0.740845 3.56879 1.17304 4.15695C1.52049 4.62989 1.24209 5.30346 0.662688 5.39162C-0.0579425 5.50136 -0.247105 6.45403 0.376831 6.83178C0.878459 7.13548 0.878459 7.86453 0.376831 8.16821Z" />
                     </svg>
-                    Nulla vestibulum vestibulum varius told this.
+                    State-of-the-art gymnasium
                   </li>
                   <li>
                     <svg xmlns="http://www.w3.org/2000/svg" width={15} height={15} viewBox="0 0 15 15">
                       <path d="M0.376831 8.16821C-0.247095 8.54593 -0.0579659 9.49862 0.662688 9.60837C1.24211 9.69666 1.52052 10.3701 1.17304 10.8431C0.740845 11.4312 1.27942 12.2389 1.98713 12.0639C2.55609 11.9231 3.07065 12.4387 2.9302 13.0088C2.75556 13.718 3.56158 14.2577 4.14855 13.8246C4.62054 13.4764 5.29275 13.7554 5.38073 14.336C5.49024 15.0581 6.44099 15.2476 6.81798 14.6224C7.12107 14.1198 7.84864 14.1198 8.15171 14.6224C8.52867 15.2476 9.47943 15.0581 9.58896 14.336C9.67707 13.7554 10.3492 13.4764 10.8211 13.8246C11.4081 14.2577 12.2142 13.718 12.0395 13.0088C11.899 12.4387 12.4136 11.9231 12.9826 12.0639C13.6903 12.2389 14.2289 11.4312 13.7967 10.8431C13.4492 10.3701 13.7276 9.69653 14.307 9.60837C15.0276 9.49864 15.2168 8.54597 14.5929 8.16821C14.0912 7.86452 14.0912 7.13547 14.5929 6.83178C15.2168 6.45407 15.0277 5.50138 14.307 5.39162C13.7276 5.30334 13.4492 4.62989 13.7967 4.15695C14.2289 3.56879 13.6903 2.76112 12.9826 2.93613C12.4136 3.07687 11.8991 2.5613 12.0395 1.99115C12.2141 1.28199 11.4081 0.742345 10.8211 1.17541C10.3492 1.52356 9.67695 1.2446 9.58896 0.664029C9.47945 -0.0580599 8.5287 -0.247606 8.15171 0.377594C7.84863 0.880237 7.12106 0.880237 6.81798 0.377594C6.44103 -0.247596 5.49027 -0.0580833 5.38073 0.664029C5.29263 1.24462 4.62054 1.5236 4.14855 1.17541C3.56158 0.742345 2.75554 1.28201 2.9302 1.99115C3.07065 2.56126 2.55612 3.07686 1.98713 2.93613C1.2794 2.76113 0.740845 3.56879 1.17304 4.15695C1.52049 4.62989 1.24209 5.30346 0.662688 5.39162C-0.0579425 5.50136 -0.247105 6.45403 0.376831 6.83178C0.878459 7.13548 0.878459 7.86453 0.376831 8.16821Z" />
                     </svg>
-                    Consequat congue sem. In convallis purus ut.
+                    Café Lounge
                   </li>
                   <li>
                     <svg xmlns="http://www.w3.org/2000/svg" width={15} height={15} viewBox="0 0 15 15">
                       <path d="M0.376831 8.16821C-0.247095 8.54593 -0.0579659 9.49862 0.662688 9.60837C1.24211 9.69666 1.52052 10.3701 1.17304 10.8431C0.740845 11.4312 1.27942 12.2389 1.98713 12.0639C2.55609 11.9231 3.07065 12.4387 2.9302 13.0088C2.75556 13.718 3.56158 14.2577 4.14855 13.8246C4.62054 13.4764 5.29275 13.7554 5.38073 14.336C5.49024 15.0581 6.44099 15.2476 6.81798 14.6224C7.12107 14.1198 7.84864 14.1198 8.15171 14.6224C8.52867 15.2476 9.47943 15.0581 9.58896 14.336C9.67707 13.7554 10.3492 13.4764 10.8211 13.8246C11.4081 14.2577 12.2142 13.718 12.0395 13.0088C11.899 12.4387 12.4136 11.9231 12.9826 12.0639C13.6903 12.2389 14.2289 11.4312 13.7967 10.8431C13.4492 10.3701 13.7276 9.69653 14.307 9.60837C15.0276 9.49864 15.2168 8.54597 14.5929 8.16821C14.0912 7.86452 14.0912 7.13547 14.5929 6.83178C15.2168 6.45407 15.0277 5.50138 14.307 5.39162C13.7276 5.30334 13.4492 4.62989 13.7967 4.15695C14.2289 3.56879 13.6903 2.76112 12.9826 2.93613C12.4136 3.07687 11.8991 2.5613 12.0395 1.99115C12.2141 1.28199 11.4081 0.742345 10.8211 1.17541C10.3492 1.52356 9.67695 1.2446 9.58896 0.664029C9.47945 -0.0580599 8.5287 -0.247606 8.15171 0.377594C7.84863 0.880237 7.12106 0.880237 6.81798 0.377594C6.44103 -0.247596 5.49027 -0.0580833 5.38073 0.664029C5.29263 1.24462 4.62054 1.5236 4.14855 1.17541C3.56158 0.742345 2.75554 1.28201 2.9302 1.99115C3.07065 2.56126 2.55612 3.07686 1.98713 2.93613C1.2794 2.76113 0.740845 3.56879 1.17304 4.15695C1.52049 4.62989 1.24209 5.30346 0.662688 5.39162C-0.0579425 5.50136 -0.247105 6.45403 0.376831 6.83178C0.878459 7.13548 0.878459 7.86453 0.376831 8.16821Z" />
                     </svg>
-                    Vitae efficitur risus molestie. Donec laoreet.
+                    Massage room
                   </li>
                   <li>
                     <svg xmlns="http://www.w3.org/2000/svg" width={15} height={15} viewBox="0 0 15 15">
                       <path d="M0.376831 8.16821C-0.247095 8.54593 -0.0579659 9.49862 0.662688 9.60837C1.24211 9.69666 1.52052 10.3701 1.17304 10.8431C0.740845 11.4312 1.27942 12.2389 1.98713 12.0639C2.55609 11.9231 3.07065 12.4387 2.9302 13.0088C2.75556 13.718 3.56158 14.2577 4.14855 13.8246C4.62054 13.4764 5.29275 13.7554 5.38073 14.336C5.49024 15.0581 6.44099 15.2476 6.81798 14.6224C7.12107 14.1198 7.84864 14.1198 8.15171 14.6224C8.52867 15.2476 9.47943 15.0581 9.58896 14.336C9.67707 13.7554 10.3492 13.4764 10.8211 13.8246C11.4081 14.2577 12.2142 13.718 12.0395 13.0088C11.899 12.4387 12.4136 11.9231 12.9826 12.0639C13.6903 12.2389 14.2289 11.4312 13.7967 10.8431C13.4492 10.3701 13.7276 9.69653 14.307 9.60837C15.0276 9.49864 15.2168 8.54597 14.5929 8.16821C14.0912 7.86452 14.0912 7.13547 14.5929 6.83178C15.2168 6.45407 15.0277 5.50138 14.307 5.39162C13.7276 5.30334 13.4492 4.62989 13.7967 4.15695C14.2289 3.56879 13.6903 2.76112 12.9826 2.93613C12.4136 3.07687 11.8991 2.5613 12.0395 1.99115C12.2141 1.28199 11.4081 0.742345 10.8211 1.17541C10.3492 1.52356 9.67695 1.2446 9.58896 0.664029C9.47945 -0.0580599 8.5287 -0.247606 8.15171 0.377594C7.84863 0.880237 7.12106 0.880237 6.81798 0.377594C6.44103 -0.247596 5.49027 -0.0580833 5.38073 0.664029C5.29263 1.24462 4.62054 1.5236 4.14855 1.17541C3.56158 0.742345 2.75554 1.28201 2.9302 1.99115C3.07065 2.56126 2.55612 3.07686 1.98713 2.93613C1.2794 2.76113 0.740845 3.56879 1.17304 4.15695C1.52049 4.62989 1.24209 5.30346 0.662688 5.39162C-0.0579425 5.50136 -0.247105 6.45403 0.376831 6.83178C0.878459 7.13548 0.878459 7.86453 0.376831 8.16821Z" />
                     </svg>
-                    Est vel feugiat dapibus. Quisque velit ullamcorp.
+                   Steam.
                   </li>
                   <li>
                     <svg xmlns="http://www.w3.org/2000/svg" width={15} height={15} viewBox="0 0 15 15">
                       <path d="M0.376831 8.16821C-0.247095 8.54593 -0.0579659 9.49862 0.662688 9.60837C1.24211 9.69666 1.52052 10.3701 1.17304 10.8431C0.740845 11.4312 1.27942 12.2389 1.98713 12.0639C2.55609 11.9231 3.07065 12.4387 2.9302 13.0088C2.75556 13.718 3.56158 14.2577 4.14855 13.8246C4.62054 13.4764 5.29275 13.7554 5.38073 14.336C5.49024 15.0581 6.44099 15.2476 6.81798 14.6224C7.12107 14.1198 7.84864 14.1198 8.15171 14.6224C8.52867 15.2476 9.47943 15.0581 9.58896 14.336C9.67707 13.7554 10.3492 13.4764 10.8211 13.8246C11.4081 14.2577 12.2142 13.718 12.0395 13.0088C11.899 12.4387 12.4136 11.9231 12.9826 12.0639C13.6903 12.2389 14.2289 11.4312 13.7967 10.8431C13.4492 10.3701 13.7276 9.69653 14.307 9.60837C15.0276 9.49864 15.2168 8.54597 14.5929 8.16821C14.0912 7.86452 14.0912 7.13547 14.5929 6.83178C15.2168 6.45407 15.0277 5.50138 14.307 5.39162C13.7276 5.30334 13.4492 4.62989 13.7967 4.15695C14.2289 3.56879 13.6903 2.76112 12.9826 2.93613C12.4136 3.07687 11.8991 2.5613 12.0395 1.99115C12.2141 1.28199 11.4081 0.742345 10.8211 1.17541C10.3492 1.52356 9.67695 1.2446 9.58896 0.664029C9.47945 -0.0580599 8.5287 -0.247606 8.15171 0.377594C7.84863 0.880237 7.12106 0.880237 6.81798 0.377594C6.44103 -0.247596 5.49027 -0.0580833 5.38073 0.664029C5.29263 1.24462 4.62054 1.5236 4.14855 1.17541C3.56158 0.742345 2.75554 1.28201 2.9302 1.99115C3.07065 2.56126 2.55612 3.07686 1.98713 2.93613C1.2794 2.76113 0.740845 3.56879 1.17304 4.15695C1.52049 4.62989 1.24209 5.30346 0.662688 5.39162C-0.0579425 5.50136 -0.247105 6.45403 0.376831 6.83178C0.878459 7.13548 0.878459 7.86453 0.376831 8.16821Z" />
                     </svg>
-                    Pharetra vitae, varius in dui. Cras et aliquam.
+                    *Upcoming infrastructure/ development
                   </li>
                   <li>
                     <svg xmlns="http://www.w3.org/2000/svg" width={15} height={15} viewBox="0 0 15 15">
                       <path d="M0.376831 8.16821C-0.247095 8.54593 -0.0579659 9.49862 0.662688 9.60837C1.24211 9.69666 1.52052 10.3701 1.17304 10.8431C0.740845 11.4312 1.27942 12.2389 1.98713 12.0639C2.55609 11.9231 3.07065 12.4387 2.9302 13.0088C2.75556 13.718 3.56158 14.2577 4.14855 13.8246C4.62054 13.4764 5.29275 13.7554 5.38073 14.336C5.49024 15.0581 6.44099 15.2476 6.81798 14.6224C7.12107 14.1198 7.84864 14.1198 8.15171 14.6224C8.52867 15.2476 9.47943 15.0581 9.58896 14.336C9.67707 13.7554 10.3492 13.4764 10.8211 13.8246C11.4081 14.2577 12.2142 13.718 12.0395 13.0088C11.899 12.4387 12.4136 11.9231 12.9826 12.0639C13.6903 12.2389 14.2289 11.4312 13.7967 10.8431C13.4492 10.3701 13.7276 9.69653 14.307 9.60837C15.0276 9.49864 15.2168 8.54597 14.5929 8.16821C14.0912 7.86452 14.0912 7.13547 14.5929 6.83178C15.2168 6.45407 15.0277 5.50138 14.307 5.39162C13.7276 5.30334 13.4492 4.62989 13.7967 4.15695C14.2289 3.56879 13.6903 2.76112 12.9826 2.93613C12.4136 3.07687 11.8991 2.5613 12.0395 1.99115C12.2141 1.28199 11.4081 0.742345 10.8211 1.17541C10.3492 1.52356 9.67695 1.2446 9.58896 0.664029C9.47945 -0.0580599 8.5287 -0.247606 8.15171 0.377594C7.84863 0.880237 7.12106 0.880237 6.81798 0.377594C6.44103 -0.247596 5.49027 -0.0580833 5.38073 0.664029C5.29263 1.24462 4.62054 1.5236 4.14855 1.17541C3.56158 0.742345 2.75554 1.28201 2.9302 1.99115C3.07065 2.56126 2.55612 3.07686 1.98713 2.93613C1.2794 2.76113 0.740845 3.56879 1.17304 4.15695C1.52049 4.62989 1.24209 5.30346 0.662688 5.39162C-0.0579425 5.50136 -0.247105 6.45403 0.376831 6.83178C0.878459 7.13548 0.878459 7.86453 0.376831 8.16821Z" />
                     </svg>
-                    Tortor eget vestibulum vestibulum, leo cursus.
+                    A grand club house
                   </li>
                 </ul>
                 <span className="line-break" />
@@ -74,10 +76,10 @@ const page = () => {
                 <div className="project-details-img-grp">
                   <div className="row g-4">
                     <div className="col-md-6">
-                      <img src="/assets/img/home3/august/villa-royale-1.jpg" alt="" />
+                      <img src="/assets/img/home3/august/lodha1.jpg" alt="" />
                     </div>
                     <div className="col-md-6">
-                      <img src="/assets/img/home3/august/villa-royale-2.jpg" alt="" />
+                      <img src="/assets/img/home3/august/lodha-imperio-2.jpg" alt="" />
                     </div>
                   </div>
                 </div>
@@ -144,14 +146,14 @@ const page = () => {
                 <span className="line-break" />
                 <span className="line-break" />
                 <span className="line-break" /> */}
-                <h3>Final Result</h3>
+                <h3>Creating the world’s finest developments</h3>
                 <span className="line-break" />
-                <p>urna Aenean onewaryzo eleifend vitae tellus a facilisis. Nunc posuere at augue eget porta. Inei odio tellus, dignissim fermentumara purus nec, consequat dapibus metus.Vivamus urna worlda mauris, faucibus at egestas quis, fermentum egetonav neque. Duis pharetra lectus nec risusonl pellentesque</p>
+                <p>Recognizing the profound impact of design and service on well-being, we create thoughtful and purposeful living spaces.Committed to surpassing expectations, our carefully crafted events and experiences ensure an enriched and empowered lifestyle.We are creating homes and workspaces for an ever-changing tomorrow, where luxury and sustainability can co-exist in perfect harmony.</p>
               </div>
             </div>
             <div className="col-lg-4">
               <div className="project-details-sidebar">
-                <div className="project-info-wrap mb-35">
+                  <div className="project-info-wrap mb-35">
                   <ul className="project-info">
                     <li>
                       <div className="icon">
@@ -160,8 +162,8 @@ const page = () => {
                         </svg>
                       </div>
                       <div className="content">
-                        <span>Client:</span>
-                        <h5>Argova Josen</h5>
+                        <span>Developer:</span>
+                        <h5>Lodha Developers</h5>
                       </div>
                     </li>
                     <li>
@@ -172,7 +174,7 @@ const page = () => {
                       </div>
                       <div className="content">
                         <span>Company:</span>
-                        <h5>Egens Lab</h5>
+                        <h5>Antilla Estates Private</h5>
                       </div>
                     </li>
                     <li>
@@ -183,7 +185,7 @@ const page = () => {
                       </div>
                       <div className="content">
                         <span>Location:</span>
-                        <h5>7 Lake Street, London</h5>
+                        <h5>Palava City</h5>
                       </div>
                     </li>
                     <li>
@@ -194,7 +196,7 @@ const page = () => {
                       </div>
                       <div className="content">
                         <span>Project Type:</span>
-                        <h5>Interior Design</h5>
+                        <h5>European Villa</h5>
                       </div>
                     </li>
                     <li>
@@ -205,7 +207,7 @@ const page = () => {
                       </div>
                       <div className="content">
                         <span>Duration:</span>
-                        <h5>2 Month</h5>
+                        <h5>3 Months</h5>
                       </div>
                     </li>
                   </ul>
@@ -240,15 +242,15 @@ const page = () => {
                     PRV PROJECT
                   </Link>
                   <div className="content">
-                    <h6><Link href="/project/project-details">The complete gu unlocking your team’s power of our unique work.</Link></h6>
+                    <h6><Link href="/project/villa-alibuag">Our best investments</Link></h6>
                   </div>
                 </div>
                 <div className="single-navigation two">
                   <div className="content">
-                    <h6><Link href="/project/project-details">Challenges creating structure multiple brand system.</Link></h6>
+                    <h6><Link href="/project/project-details">The most strategic investments</Link></h6>
                   </div>
-                  <Link href="/project/project-details" className="nav-btn">
-                    NXT PROJECT
+                  <Link href="/project/villa-thane" className="nav-btn">
+                    NEXT PROJECT
                     <svg width={11} height={10} viewBox="0 0 11 10" xmlns="http://www.w3.org/2000/svg">
                       <path fillRule="evenodd" clipRule="evenodd" d="M8.97921 2.22814C7.34659 3.17073 4.9887 2.52309 4.03258 0.867041L3.64073 0.188334L2.30142 0.961587L2.69327 1.64029C3.38841 2.84432 4.56145 3.6729 5.85794 4.03021L0.608508 7.06097L1.39221 8.41838L6.64165 5.38762C6.30284 6.68907 6.43389 8.11924 7.12903 9.32327L7.52088 10.002L8.8602 9.22872L8.46835 8.55001C7.51262 6.89464 8.13029 4.52815 9.76292 3.58555L10.4326 3.19893L9.64887 1.84151L8.97921 2.22814Z" />
                     </svg>

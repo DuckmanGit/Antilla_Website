@@ -240,14 +240,14 @@ const page = () => {
                     PRV PROJECT
                   </Link>
                   <div className="content">
-                    <h6><Link href="/project/project-details">The complete gu unlocking your team’s power of our unique work.</Link></h6>
+                    <h6><Link href="/project/villa-palava">The complete gu unlocking your team’s power of our unique work.</Link></h6>
                   </div>
                 </div>
                 <div className="single-navigation two">
                   <div className="content">
                     <h6><Link href="/project/project-details">Challenges creating structure multiple brand system.</Link></h6>
                   </div>
-                  <Link href="/project/project-details" className="nav-btn">
+                  <Link href="/project/villa-alibuag" className="nav-btn">
                     NXT PROJECT
                     <svg width={11} height={10} viewBox="0 0 11 10" xmlns="http://www.w3.org/2000/svg">
                       <path fillRule="evenodd" clipRule="evenodd" d="M8.97921 2.22814C7.34659 3.17073 4.9887 2.52309 4.03258 0.867041L3.64073 0.188334L2.30142 0.961587L2.69327 1.64029C3.38841 2.84432 4.56145 3.6729 5.85794 4.03021L0.608508 7.06097L1.39221 8.41838L6.64165 5.38762C6.30284 6.68907 6.43389 8.11924 7.12903 9.32327L7.52088 10.002L8.8602 9.22872L8.46835 8.55001C7.51262 6.89464 8.13029 4.52815 9.76292 3.58555L10.4326 3.19893L9.64887 1.84151L8.97921 2.22814Z" />
