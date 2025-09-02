@@ -67,7 +67,7 @@
     {
         "id": "4",
         "label": "PROJECT",
-        "link": "/services",
+        "link": "/project",
         "icon": true
         
     },
@@ -79,3 +79,4 @@
         
     }
 ]
+

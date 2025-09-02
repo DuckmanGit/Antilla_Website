@@ -1,3 +1,4 @@
+
 import Breadcrum from '@/components/common/Breadcrum'
 import Footer1 from '@/components/Footer/Footer1'
 import Home1FooterTop from '@/components/Footer/Home1FooterTop'
@@ -16,52 +17,52 @@ const page = () => {
                         <div className="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                             <div className="project-card two magnetic-item">
                                 <div className="project-img-wrap">
-                                    <Link href="/project/project-details" className="project-img">
-                                        <img src="/assets/img/home1/project-img1.jpg" alt="" />
+                                    <Link href="/project/villa-thane" className="project-img">
+                                        <img src="/assets/img/home3/august/villa-royale-thumbnail.jpg" alt="" />
                                     </Link>
                                 </div>
                                 <div className="project-content">
                                     <span>Location : Mumbai</span>
-                                    <h4><Link href="/project/project-details">Villa Royale Gold</Link></h4>
+                                    <h4><Link href="/project/villa-thane">Villa Royale Gold</Link></h4>
                                 </div>
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                             <div className="project-card two magnetic-item">
                                 <div className="project-img-wrap">
-                                    <Link href="/project/project-details" className="project-img">
-                                        <img src="/assets/img/home1/project-img2.jpg" alt="" />
+                                    <Link href="/project/villa-imperio" className="project-img">
+                                        <img src="/assets/img/home3/august/lodha-imperio-2.jpg" alt="" />
                                     </Link>
                                 </div>
                                 <div className="project-content">
                                     <span>Location : Mumbai</span>
-                                    <h4><Link href="/project/project-details">Villa Imperio Palava</Link></h4>
+                                    <h4><Link href="/project/villa-imperio">Villa Imperio Palava</Link></h4>
                                 </div>
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="600ms" data-wow-duration="1500ms">
                             <div className="project-card two magnetic-item">
                                 <div className="project-img-wrap">
-                                    <Link href="/project/project-details" className="project-img">
-                                        <img src="/assets/img/home1/project-img3.jpg" alt="" />
+                                    <Link href="/project/villa-palava" className="project-img">
+                                        <img src="/assets/img/home3/august/villa-royale-palava-thumbnail.jpg" alt="" />
                                     </Link>
                                 </div>
                                 <div className="project-content">
                                     <span>Location : Mumbai</span>
-                                    <h4><Link href="/project/project-details">Villa Royal Palava</Link></h4>
+                                    <h4><Link href="/project/villa-palava">Villa Royal Palava</Link></h4>
                                 </div>
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="800ms" data-wow-duration="1500ms">
                             <div className="project-card two magnetic-item">
                                 <div className="project-img-wrap">
-                                    <Link href="/project/project-details" className="project-img">
-                                        <img src="/assets/img/home1/project-img4.jpg" alt="" />
+                                    <Link href="/project/villa-alibagh" className="project-img">
+                                        <img src="/assets/img/home3/august/sole-de-alibagh-thumbnail.jpg" alt="" />
                                     </Link>
                                 </div>
                                 <div className="project-content">
                                     <span>Location : Alibag</span>
-                                    <h4><Link href="/project/project-details">Sol De Alibag</Link></h4>
+                                    <h4><Link href="/project/villa-alibagh">Sol De Alibag</Link></h4>
                                 </div>
                             </div>
                         </div>
@@ -76,3 +77,4 @@ const page = () => {
 }
 
 export default page
+

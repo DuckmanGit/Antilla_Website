@@ -215,7 +215,7 @@ const SidebarMenu = ({ isMenuOpen, toggleMenu, style }) => {
                                         </ul> */}
                                     </li>
                                     <li>
-                                        <Link href="/services">Project</Link>
+                                        <Link href="/project">Project</Link>
                                         {/* <span className={`dropdown-icon2 ${state.activeMenu === "project" ? "active" : ""} `} onClick={() => collapseMenu("project")}><i className={`bi ${state.activeMenu === "project" ? "bi-dash" : "bi-plus"}`}  /></span>
                                         <ul className={`submenu-list ${state.activeMenu === "project" ? "active" : ""}`}>
                                             <li>
