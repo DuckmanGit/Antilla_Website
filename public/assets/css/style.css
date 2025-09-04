@@ -10663,7 +10663,7 @@ header.style-3.two.sticky {
   color: var(--primary-color);
 }
 .home3-banner-section .banner-wrapper {
-  background-color: #FFFFFF;
+    background-image: url(../img/home3/august/banner-club.svg), linear-gradient(180deg, #acd3e2 8.56%, rgba(70, 118, 137, 0) 81.08%);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
