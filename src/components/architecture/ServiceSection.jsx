@@ -7,7 +7,7 @@ const ServiceSection = () => {
     const awardData = [
         { name: "Villa In Mumbai" },
         { name: "Villa In Lonovala" },
-        { name: "IVilla In Alibag" },
+        { name: "Villa In Alibag" },
         { name: "Special For Some" },
         { name: "Upcomming" }
     ];
@@ -36,7 +36,7 @@ const ServiceSection = () => {
                                 <div className="service-content">
                                     <span>{index+1}.</span>
                                     <h5>
-                                        <Link href="/services/service-details">{item}
+                                        <Link href="/project">{item}
                                         </Link>
                                         <svg width={14} height={14} viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg">
                                             <path fillRule="evenodd" clipRule="evenodd" d="M12.7606 11.8843L0.876899 -5.73629e-07L-3.83304e-08 0.876897L11.8843 12.7606L3.66748 12.7606L3.66748 14L14 14L14 3.66748L12.7606 3.66748L12.7606 11.8843Z" />

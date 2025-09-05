@@ -72,7 +72,7 @@ const ProjectSection = () => {
                 </ul>
               </div>
               <div className="button-area">
-                <Link href="/project/project-details" className="primary-btn">
+                <Link href="/project" className="primary-btn">
                   View Details
                   <svg viewBox="0 0 13 20">
                     <polyline points="0.5 19.5 3 19.5 12.5 10 3 0.5" />

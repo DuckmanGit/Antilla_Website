@@ -37,7 +37,7 @@ const Banner = () => {
             </div>
             <div className="home3-banner-video-area">
                 <div className="video-wrapper">
-                    <img src="assets/img/home3/VideoThumbnail.jpg" alt="" />
+                    <img src="assets/img/home3/august/thumbnailbannervideo.jpg" alt="" />
                     <a data-fancybox="video-player" onClick={openModal} className="play-btn">
                         <div className="icon">
                             {/* <svg className="video-circle" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="70px" viewBox="0 0 206 206" style={{ enableBackground: 'new 0 0 206 206' }} xmlSpace="preserve">

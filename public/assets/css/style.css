@@ -10663,7 +10663,7 @@ header.style-3.two.sticky {
   color: var(--primary-color);
 }
 .home3-banner-section .banner-wrapper {
-    background-image: url(../img/home3/august/banner-club.svg), linear-gradient(180deg, #acd3e2 8.56%, rgba(70, 118, 137, 0) 81.08%);
+    background-image: url(../img/home3/august/bannerclub.svg), linear-gradient(180deg, #acd3e2 8.56%, rgba(70, 118, 137, 0) 81.08%);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -10848,7 +10848,7 @@ header.style-3.two.sticky {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(var(--primary-color-opc), 0.25);
+  background-color: rgba(var(--primary-color-opc), 0.05); 
   border-radius: 120px 0 0 0;
 }
 @media (max-width: 991px) {
