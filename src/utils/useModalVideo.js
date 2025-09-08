@@ -12,7 +12,7 @@ const useModalVideo = (videoId = "", options = {}) => {
     <ModalVideo
       channel={"youtube"}
       isOpen={isOpen}
-      videoId={"dJ6fkxWCO6g"}
+      videoId={"ClAJreqMbbQ"}
       animationSpeed= {350}
       onClose={closeModal}
     />
