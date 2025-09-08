@@ -116,7 +116,7 @@ const AboutPage = () => {
                 <ul>
                   <li>
                     <h5>Who we are</h5>
-                    <p>Antilla Estates Private Limited is a premier asset holding and construction company with a robust portfolio valued at over ₹1000 crores. Headquartered in Mumbai, we specialize in visionary real estate development, strategic asset management, and innovative redevelopment projects.&amp; start.</p>
+                    <p>Antilla Estates Private Limited is a premier asset holding and construction company with a robust portfolio valued at over ₹1500 crores. Headquartered in Mumbai, we specialize in visionary real estate development, strategic asset management, and innovative redevelopment projects.&amp; start.</p>
                   </li>
                   <li>
                     <h5>Our Mission</h5>
