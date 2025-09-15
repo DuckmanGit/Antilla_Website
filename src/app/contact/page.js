@@ -1,11 +1,52 @@
+"use client"
 import Breadcrum from '@/components/common/Breadcrum'
 import SelectComponent from '@/components/common/SelectComponent'
 import Footer1 from '@/components/Footer/Footer1'
 import Home1FooterTop from '@/components/Footer/Home1FooterTop'
 import Header1 from '@/components/header/Header1'
 import React from 'react'
+import { useState } from 'react'
 
 const page = () => {
+const [fullname, setFullName] = useState("");
+const [email, setEmail] = useState("");
+const [phone, setPhone] = useState("");
+const [projectinterested, setProjectInterested] = useState("");
+const [message, setMessage] = useState("");
+const [error, setError] = useState([]);
+
+
+const handleSubmit = async(e)=>{
+    e.preventDefault();
+    
+    const res = await fetch("/api/contact",{
+    method: "POST",
+    headers:{
+        "content-type": "application/json",
+    },
+    body: JSON.stringify({
+        fullname,
+        email,
+        phone,
+        projectinterested,
+        message,
+
+    }),
+});
+    
+    console.log("HTTP", res.status, res.statusText);
+    const {msg, success} = await res.json();
+    setError(msg);
+    
+    if (success) {
+      setFullName("");
+      setEmail("");
+      setMessage("");
+    }
+    
+    
+}
+
     return (
         <>
             <Header1 fluid={"container-fluid"}/>
@@ -56,37 +97,59 @@ const page = () => {
                             </div>
                             <div className="col-lg-7 wow animate fadeInRight" data-wow-delay="200ms" data-wow-duration="1500ms">
                                 <div className="contact-form-wrap">
-                                    <form>
+                                    <form onSubmit={handleSubmit}>
                                         <div className="row g-4">
                                             <div className="col-md-12">
                                                 <div className="form-inner">
                                                     <label>Full Name *</label>
-                                                    <input type="text" />
+                                                    <input 
+                                                    onChange={(e) => setFullName(e.target.value)}
+                                                    value={fullname}
+                                                    type="text" 
+                                                    />
                                                 </div>
                                             </div>
                                             <div className="col-md-6">
                                                 <div className="form-inner">
                                                     <label>Email *</label>
-                                                    <input type="email" />
+                                                    <input 
+                                                    onChange={(e) => setEmail(e.target.value)}
+                                                    value={email}
+                                                    type="email" />
                                                 </div>
                                             </div>
                                             <div className="col-md-6">
                                                 <div className="form-inner">
                                                     <label>Phone *</label>
-                                                    <input type="text" />
+                                                    <input 
+                                                    onChange={(e) => setPhone(e.target.value)}
+                                                    value={phone}
+                                                    type="text" />
                                                 </div>
                                             </div>
                                             <div className="col-md-12">
                                                 <div className="form-inner">
                                                     <label>Project Intrested</label>
-                                                    <SelectComponent options={["Villa","Apartment", "Land","Other"]} placeholder="Site Visit"/>
+                                                    <SelectComponent options={["Villa","Apartment", "Land","Other"]} placeholder="Site Visit"
+                                                    onSelect={(opt) => {
+                                                    // opt may be a string OR an object depending on your SelectComponent
+                                                    // normalize: if object {value,label} use .value else use the string
+                                                    const value = opt && typeof opt === "object" ? (opt.value ?? opt.label ?? "") : opt ?? "";
+                                                    setProjectInterested(value);
+                                                   }}
+                                                    />
+                                                     <input type="hidden" name="projectinterested" value={projectinterested} />
+                                                    
                                                     
                                                 </div>
                                             </div>
                                             <div className="col-md-12">
                                                 <div className="form-inner">
                                                     <label>Message *</label>
-                                                    <textarea defaultValue={""} />
+                                                    <textarea 
+                                                    onChange={(e) => setMessage(e.target.value)}
+                                                    value={message}
+                                                     />
                                                 </div>
                                             </div>
                                             <div className="col-lg-12">
