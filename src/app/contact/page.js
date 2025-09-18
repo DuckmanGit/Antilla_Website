@@ -4,10 +4,9 @@ import SelectComponent from '@/components/common/SelectComponent'
 import Footer1 from '@/components/Footer/Footer1'
 import Home1FooterTop from '@/components/Footer/Home1FooterTop'
 import Header1 from '@/components/header/Header1'
-import React from 'react'
-import { useState } from 'react'
+import React, { useState } from 'react'
 
-const page = () => {
+const ContactPage = () => {
 const [fullname, setFullName] = useState("");
 const [email, setEmail] = useState("");
 const [phone, setPhone] = useState("");
@@ -185,4 +184,4 @@ const handleSubmit = async(e)=>{
     )
 }
 
-export default page
+export default ContactPage;
