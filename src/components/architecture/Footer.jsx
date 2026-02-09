@@ -74,7 +74,7 @@ const Footer = () => {
                     </div>
                     <div className="content">
                       <span>ADDRESS</span>
-                      <h6><a href="https://g.co/kgs/NkuNsZr">1515D, One Lodha Place, Mumbai, <br/>sMaharashtra, India</a></h6>
+                      <h6><a href="https://g.co/kgs/NkuNsZr">1515D, One Lodha Place, Mumbai, <br/>Maharashtra, India</a></h6>
                     </div>
                   </div>
                   <svg className="arrow" width={8} height={29} viewBox="0 0 8 29" xmlns="http://www.w3.org/2000/svg">
